@@ -1,0 +1,7803 @@
+{
+ "source": "r/cardistry Cardistry Hub v1.1",
+ "checked": "2026-11-16",
+ "youtubeFetched": "2026-11-16",
+ "moves": [
+  {
+   "id": "basic-grips",
+   "name": "Basic Grips",
+   "creator": null,
+   "difficulty": null,
+   "starter": 1,
+   "description": "Common ways of holding a deck",
+   "links": [
+    {
+     "url": "https://youtu.be/bt0RumRuwGQ",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Grips"
+    },
+    {
+     "url": "https://youtu.be/e8PAMLgLcfY",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Basics - Grips"
+    },
+    {
+     "url": "https://youtu.be/ocVFnpsNWpI",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "The Grips // Cardistry Tutorial // the Classics"
+    },
+    {
+     "url": "https://youtu.be/x9AdMMBYYZg",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - Grips Tutorial / Beginners Cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Basics",
+   "source": "hub",
+   "categories": [
+    "Basics"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/da7317b9-d403-42c1-9100-288f681aec2e"
+  },
+  {
+   "id": "riffle-shuffle",
+   "name": "Riffle Shuffle",
+   "creator": null,
+   "difficulty": null,
+   "starter": 2,
+   "description": "Useful for breaking in a deck",
+   "links": [
+    {
+     "url": "https://youtu.be/8eN1FIVVU4Q",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Riffle Shuffle Tutorial"
+    },
+    {
+     "url": "https://youtu.be/f6ZD1lDbW3M",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Shuffles - Riffle Shuffle Tutorial"
+    },
+    {
+     "url": "https://youtu.be/WTbx20gjvAg",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Learn to Riffle Shuffle in 8 minutes"
+    },
+    {
+     "url": "https://youtu.be/IMl9xirU81E",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - Riffle Shuffle and Bridge Tutorial & Tips / Beginners Cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Shuffles & weaves",
+   "source": "hub",
+   "categories": [
+    "Shuffles & weaves"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/b4bb2401-a866-470e-abfe-de5151ae98ea"
+  },
+  {
+   "id": "charlier-cut",
+   "name": "Charlier Cut",
+   "creator": null,
+   "difficulty": null,
+   "starter": 3,
+   "description": "Staple one-hand cut used in many moves",
+   "links": [
+    {
+     "url": "https://youtu.be/BNC_DD9XccI",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Charlier Cut Tutorial"
+    },
+    {
+     "url": "https://youtu.be/YdBdW0OlLpQ",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cuts - Charlier Cut Tutorial"
+    },
+    {
+     "url": "https://youtu.be/43DQqBDSkow",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "Charlier Cut // Cardistry Tutorial // the Classics"
+    },
+    {
+     "url": "https://youtu.be/eGLrsod3wDY",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cuts - Charlier T Tutorial"
+    },
+    {
+     "url": "https://youtu.be/3JeNVMiH6CU",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - Charlier Cut Tutorial & Tips / Beginners Cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/22b8a979-b487-4a0b-9e02-8b821f8fd987"
+  },
+  {
+   "id": "swing-cut",
+   "name": "Swing Cut",
+   "creator": null,
+   "difficulty": null,
+   "starter": 4,
+   "description": "Common way to make a packet of cards",
+   "links": [
+    {
+     "url": "https://youtu.be/-hvHFx9J2IU",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "Swing Cut // Cardistry Tutorial // the Classics"
+    },
+    {
+     "url": "https://youtu.be/Rn5lmEQej_k",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Swing Cut & Swivel Cut Tutorial"
+    },
+    {
+     "url": "https://youtu.be/OnIiuuJBfTY",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Swing Cut"
+    },
+    {
+     "url": "https://youtu.be/Vk0COVzebwk",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - Swing and Swivel Cut Tutorial / Beginners Cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/01644a7c-ab68-4e3b-b065-d3f17911049b"
+  },
+  {
+   "id": "swivel-cut",
+   "name": "Swivel Cut",
+   "creator": null,
+   "difficulty": null,
+   "starter": 5,
+   "description": "Another way to make a packet of cards",
+   "links": [
+    {
+     "url": "https://youtu.be/Rn5lmEQej_k?t=45",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Swing Cut & Swivel Cut Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts",
+    "Shuffles & weaves"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/0de379ab-d713-47c3-a0ac-2cb07427b3d7"
+  },
+  {
+   "id": "revolution-cut",
+   "name": "Revolution Cut",
+   "creator": null,
+   "difficulty": null,
+   "starter": 6,
+   "description": "Harder charlier cut that revolves a packet",
+   "links": [
+    {
+     "url": "https://youtu.be/MVsjBiCVeTE",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Revolution Cut Tutorial"
+    },
+    {
+     "url": "https://youtu.be/OulHu0hwuTQ",
+     "kind": "tutorial",
+     "teacher": "The Virts",
+     "status": "ok",
+     "title": "Cardistry Tutorials - Virtuoso : One Handed Revolution (Help Save Japan)"
+    },
+    {
+     "url": "https://youtu.be/2_KndJznY5A",
+     "kind": "tips",
+     "teacher": "Dealersgrip",
+     "status": "ok",
+     "title": "Revolution Cut │ Cardistry Tips"
+    },
+    {
+     "url": "https://youtu.be/4modjrvBopw",
+     "kind": "tips",
+     "teacher": "Rise Magic",
+     "status": "ok",
+     "title": "Revolution Cut TIPS // Cardistry Troubleshooting"
+    },
+    {
+     "url": "https://youtu.be/YWUHUFNR2Tc",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cut - Revolution Cut Tutorial"
+    },
+    {
+     "url": "https://youtu.be/L-5qA38wqdw",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - Revolution Cut Tutorial & Tips / Beginners Cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/298577e5-a5cc-48da-a709-7d5b75e1aa39"
+  },
+  {
+   "id": "spring",
+   "name": "Spring",
+   "creator": "Classic Move",
+   "difficulty": "Easy",
+   "starter": 7,
+   "description": "Shoots a stream of cards; iconic move",
+   "links": [
+    {
+     "url": "https://youtu.be/sE1P7fINjX8",
+     "kind": "tutorial",
+     "teacher": "The Virts",
+     "status": "ok",
+     "title": "Make normal cards FLY between your hands like Gambit | Card Spring | Cardistry tutorial by Virtuoso"
+    },
+    {
+     "url": "https://youtu.be/YJX9sUTwUlg",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Spring Tutorial"
+    },
+    {
+     "url": "https://youtu.be/XLRxqR9Oe8s",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "The Spring // Cardistry Tutorial // the Classics"
+    },
+    {
+     "url": "https://youtu.be/VhWmAgi5MRE",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials & Drops - Card Spring Tutorial"
+    },
+    {
+     "url": "https://youtu.be/laZ3jJLH7U0",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - Spring Tutorial & Tips / Beginners Cardistry"
+    }
+   ],
+   "iconic": true,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/86f0233b-e347-4517-a20b-12beff48ef76"
+  },
+  {
+   "id": "dribble",
+   "name": "Dribble",
+   "creator": null,
+   "difficulty": null,
+   "starter": 8,
+   "description": "Smooth stream of dropping cards",
+   "links": [
+    {
+     "url": "https://youtu.be/TpJhxz-z17g",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Dribble Tutorial"
+    },
+    {
+     "url": "https://youtu.be/ZLIQcpGLqlc",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "The Dribble // Cardistry Tutorial // the Classics"
+    },
+    {
+     "url": "https://youtu.be/OhpGcjCzL5g",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials & Drops - Dribble Tutorial"
+    },
+    {
+     "url": "https://youtu.be/X1IZoJ3gUxw",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics -Dribble Tutorial & Tips / Beginners Cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/5d38f243-f24f-4c2b-938d-c86cc60a38a1"
+  },
+  {
+   "id": "thumb-fan",
+   "name": "Thumb Fan",
+   "creator": "Classic Move",
+   "difficulty": "Easy",
+   "starter": 9,
+   "description": "Basic circular display of cards",
+   "links": [
+    {
+     "url": "https://youtu.be/XFIQk2LiKD0",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Thumb Fan Tutorial"
+    },
+    {
+     "url": "https://youtu.be/fZqLvpgyePY",
+     "kind": "tips",
+     "teacher": "Dealersgrip",
+     "status": "ok",
+     "title": "Thumb Fan │ Cardistry Tips"
+    },
+    {
+     "url": "https://youtu.be/1-7JE3-uiFM",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "Thumb Fan // Cardistry Tutorial // the Classics"
+    },
+    {
+     "url": "https://youtu.be/2Rxky5ilkSo",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Spreads - Thumb Fan Tutorial"
+    },
+    {
+     "url": "https://youtu.be/NPpBq9yhkzI",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - Thumb fan Tutorial & Tips / Beginners Cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/3cb63a11-c31b-41f0-af91-cd8369041c0c"
+  },
+  {
+   "id": "smear-fan",
+   "name": "Smear Fan",
+   "creator": "Classic Move",
+   "difficulty": "Easy",
+   "starter": 10,
+   "description": "One-handed simple fan",
+   "links": [
+    {
+     "url": "https://youtu.be/1E7t2BUM2rw",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Smear Fan Tutorial"
+    },
+    {
+     "url": "https://youtu.be/8MF9m9A_Cpg",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Spreads - Smear Fan Tutorial"
+    },
+    {
+     "url": "https://youtu.be/7Ld1yztVSRA",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "One Handed Fan // Cardistry Tutorial // the Classics"
+    },
+    {
+     "url": "https://youtu.be/egzq3IKM-mk",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - Smear Fan Tutorial & Tips / Beginners Cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads"
+   ]
+  },
+  {
+   "id": "ribbon-spread",
+   "name": "Ribbon Spread",
+   "creator": null,
+   "difficulty": null,
+   "starter": 11,
+   "description": "Displaying a deck across a table",
+   "links": [
+    {
+     "url": "https://youtu.be/-w3RX2VELkk",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Ribbon Spread"
+    },
+    {
+     "url": "https://youtu.be/0gGONQKuM5s",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Spreads - Table Spread Tutorial"
+    },
+    {
+     "url": "https://youtu.be/WHedLQAv13A",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - Ribbon Spread Tutorial & Tips / Beginners Cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/1e9d1ae9-9a92-48c9-b741-e29f3937cdbb"
+  },
+  {
+   "id": "scissor-cut",
+   "name": "Scissor Cut",
+   "creator": null,
+   "difficulty": null,
+   "starter": 12,
+   "description": "Cut that moves packets length-wise",
+   "links": [
+    {
+     "url": "https://youtu.be/1E0n6kamKFo",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cut - Scissor Cut Tutorial"
+    },
+    {
+     "url": "https://youtu.be/z9YkyM0hG3M",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Scissor Cut Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/b3989b4b-83fa-47c3-9bff-7aef6fecc4d9"
+  },
+  {
+   "id": "hot-shot-cut",
+   "name": "Hot Shot Cut",
+   "creator": null,
+   "difficulty": null,
+   "starter": 13,
+   "description": "Simple one-handed card shot/aerial",
+   "links": [
+    {
+     "url": "https://youtu.be/aTV-TTI3ZPw",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Hot Shot Cut"
+    },
+    {
+     "url": "https://youtu.be/J5zyMSEvNv4",
+     "kind": "tutorial",
+     "teacher": "Rise Magic",
+     "status": "ok",
+     "title": "3 AWESOME one-handed CARD SHOTS // TUTORIAL BUNDLE"
+    },
+    {
+     "url": "https://youtu.be/ENTgs9pxzEE",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials & Drops - Hot Shot Card Shoot Tutorial"
+    },
+    {
+     "url": "https://youtu.be/og9AFTGHta0",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - Hot Shot Tutorial & Tips / Beginners Cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts",
+    "Aerials & drops",
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/7a2d0403-4d75-42c0-9ed3-9ca873fb6bd3"
+  },
+  {
+   "id": "five-faces-of-sybil",
+   "name": "Five Faces of Sybil",
+   "creator": null,
+   "difficulty": null,
+   "starter": 14,
+   "description": "Classic two-handed cut and display",
+   "links": [
+    {
+     "url": "https://youtu.be/s6F3Em7McOs",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Sybil Tutorial"
+    },
+    {
+     "url": "https://youtu.be/TB5DRyTPVZE",
+     "kind": "tips",
+     "teacher": "Dealersgrip",
+     "status": "ok",
+     "title": "7 Tips on the Sybil Cut"
+    },
+    {
+     "url": "https://youtu.be/JHQ1ToMV4Ro",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Five Faces of Sybil Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/32d73c91-519a-4d21-af9c-d59b82f44b66"
+  },
+  {
+   "id": "werm",
+   "name": "WERM",
+   "creator": "Dan and Dave Buck",
+   "difficulty": "Easy",
+   "starter": 15,
+   "description": "Another simple two-handed cut + display",
+   "links": [
+    {
+     "url": "https://youtu.be/LywWQm0ivUE",
+     "kind": "tutorial",
+     "teacher": "Dan and Dave Buck",
+     "status": "ok",
+     "title": "THE WERM - Beginner Tutorial by Dave Buck"
+    },
+    {
+     "url": "https://store.theory11.com/products/werm-dan-and-dave-buck",
+     "kind": "buy",
+     "teacher": "theory11.com",
+     "status": "unchecked",
+     "title": null
+    },
+    {
+     "url": "https://youtu.be/wdDH_oaEse4",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - The Werm Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ]
+  },
+  {
+   "id": "faro-shuffle",
+   "name": "Faro Shuffle",
+   "creator": null,
+   "difficulty": null,
+   "starter": 16,
+   "description": "Knacky starting mechanic for moves",
+   "links": [
+    {
+     "url": "https://youtu.be/A-tSm8g-_pw",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Faro Shuffle Tutorial"
+    },
+    {
+     "url": "https://youtu.be/sBfU6MS5-vY?t=88",
+     "kind": "tutorial",
+     "teacher": "Rise Magic",
+     "status": "ok",
+     "title": "FARO, FRIFFLE & CASCADE SHUFFLE // Cardistry Tutorial"
+    },
+    {
+     "url": "https://youtu.be/T0yO2n8x_DI",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Shuffles - Faro Shuffle Tutorial"
+    },
+    {
+     "url": "https://youtu.be/p5IIQXiRIa8",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - Faro Shuffle Tutorial & Tips / Beginners Cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Shuffles & weaves",
+   "source": "hub",
+   "categories": [
+    "Shuffles & weaves"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/8155dfff-3257-4678-ad11-b33328763585"
+  },
+  {
+   "id": "3-packet-cut",
+   "name": "3 Packet Cut",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/FsASMg_-7nM",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - 3 Packet Cut Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "5forty",
+   "name": "5forty",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/N058z1VZGAQ",
+     "kind": "tutorial",
+     "teacher": "Kenneth Aidan Foo",
+     "status": "ok",
+     "title": "NSS Cardistry Tutorial - 5forty"
+    }
+   ],
+   "iconic": false,
+   "category": "Combos",
+   "source": "youtube",
+   "categories": [
+    "Combos"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "al-a",
+   "name": "ALÉA",
+   "creator": "Dimitri Arleri",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/YsB9F0hFi3A",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: ALÉA by Dimitri Arleri | Quickie | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "alt-z",
+   "name": "Alt-Z",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/9dVrNvWJ4-M",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Alt-Z Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "anaconda",
+   "name": "Anaconda",
+   "creator": "Bone Ho",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/iS8gCWPPPk4",
+     "kind": "tutorial",
+     "teacher": "Chandler Henry",
+     "status": "ok",
+     "title": "CARDISTRY TUTORIAL // THE ANACONDA DRIBBLE"
+    }
+   ],
+   "iconic": true,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/ec35e4e1-71db-498a-b2ff-becdca642c29"
+  },
+  {
+   "id": "angel",
+   "name": "Angel",
+   "creator": "Bone Ho",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/aNnBRUzCtyY",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-card Moves - Angel Tutorial"
+    },
+    {
+     "url": "https://youtu.be/fRH4MyB4RVs",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Angel Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls",
+    "Isolations"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/31ad039c-3724-497d-9549-8e37b035bae2"
+  },
+  {
+   "id": "armspread",
+   "name": "Armspread",
+   "creator": "Classic Move",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/srSqrvcb6uQ",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Armspread Tutorial"
+    },
+    {
+     "url": "https://youtu.be/XhvD5h4sVBk",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Spreads - Arm Spread Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads",
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/7225459c-c4d3-459d-a64b-a92e0c36bbd4"
+  },
+  {
+   "id": "armspread-transfer",
+   "name": "Armspread Transfer",
+   "creator": "Jaspas",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/dCiH_fIko4U",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | Aerials - Armspread Transfer Tutorial by Jaspas"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "around-the-world",
+   "name": "Around the World",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/GCYLJOr7Md4",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-card Twirl - Around the World Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/2fd8097d-e0e0-465d-9a56-f5e93dd1bba5",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "atm",
+   "name": "ATM",
+   "creator": "Oliver Sogard",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/UvtjLyrdUTs",
+     "kind": "tutorial",
+     "teacher": "Dealersgrip",
+     "status": "ok",
+     "title": "Cardistry Tutorial — ATM by Oliver Sogard"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/21807539-889c-4d92-99ec-8d36d6d7cebd"
+  },
+  {
+   "id": "atrium",
+   "name": "Atrium",
+   "creator": "Nobutaka Oi",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/d4IAYfh5xyg",
+     "kind": "tutorial",
+     "teacher": "Best Cardist Alive",
+     "status": "ok",
+     "title": "ATRIUM - Cardistry Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ]
+  },
+  {
+   "id": "backstroke",
+   "name": "Backstroke",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/_q0ANd9pZUc",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Card Twirls - Backstroke Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls",
+    "Two-handed cuts",
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/04b5b9c4-b137-4a94-9ea7-92b7bc1d6b5e",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "ballad",
+   "name": "Ballad",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/LuIe4kiUA9M",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Ballad Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "bap",
+   "name": "Bap",
+   "creator": "Nguyen Hoang Duy",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/qmwfLHVUJOE",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "Bap tutorial by Nguyen Hoang Duy - Di.cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "basic-twirl",
+   "name": "Basic Twirl",
+   "creator": "Classic Move",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/fRH4MyB4RVs",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Angel Tutorial"
+    },
+    {
+     "url": "https://youtu.be/rthYyF1PfRY",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Card Twirl Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls"
+   ]
+  },
+  {
+   "id": "basilisk",
+   "name": "Basilisk",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/xmimjutue_M",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Basilisk Tutorial ft. Jovan"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "bender",
+   "name": "Bender",
+   "creator": "Dimitri Arleri",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Ipz9h2ch73M",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: BENDER by Dimitri Arleri | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "biddle-flip",
+   "name": "Biddle Flip",
+   "creator": "Lars Mayrand",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/ptl5JNfcDkw",
+     "kind": "tutorial",
+     "teacher": "Lars Mayrand",
+     "status": "ok",
+     "title": "Biddle Flip | Cardistry Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops",
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/9cdf95a9-e5a9-4835-99ed-09247ae57e03"
+  },
+  {
+   "id": "blackhawk",
+   "name": "Blackhawk",
+   "creator": "@martin_cardist",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/tvzxZBBG6kg",
+     "kind": "tutorial",
+     "teacher": "THE CARD BROTHERS",
+     "status": "ok",
+     "title": "Black Hawk//World's first backpalm snap shot-tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops",
+    "Twirls"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/a274cc31-1cc7-42fd-abb2-ab31038e70d1"
+  },
+  {
+   "id": "bloom",
+   "name": "Bloom",
+   "creator": "Zach Mueller",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/giM1nkqp5kU",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "how to do BLOOM cardistry tutorial"
+    }
+   ],
+   "iconic": true,
+   "category": "Displays & structures",
+   "source": "hub",
+   "categories": [
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/64f0cd91-70f8-423d-bf04-54d6eda05093"
+  },
+  {
+   "id": "bonsai-cuts",
+   "name": "Bonsai Cuts",
+   "creator": "James Chesmore",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/XREQhRHrqqY",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | One Hand Cut - Bonsai Cuts Tutorial by James Chesmore"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "boooom",
+   "name": "Boooom",
+   "creator": "Lun Zi",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/KgOz2Qm1m1w",
+     "kind": "tutorial",
+     "teacher": "LUNZI /",
+     "status": "ok",
+     "title": "Cardistry Tutorial / Boooom by Lun Zi"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/adf22546-ac05-4692-99e3-9292187495ea"
+  },
+  {
+   "id": "bop",
+   "name": "Bop",
+   "creator": "Nguyen Hoang Duy",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://www.youtube.com/watch?v=l_UkBBqE3UE",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "Bop tutorial by Nguyen Hoang Duy - Di.cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ]
+  },
+  {
+   "id": "brenda",
+   "name": "Brenda",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/kO5Keg6VgBY",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Brenda Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "bridge-display",
+   "name": "Bridge Display",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/orfjkaeqTks",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Easy Bridge Display Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "broken-angel",
+   "name": "Broken Angel",
+   "creator": "Shivraj Morzaria",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/HqP5woulkpg",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Broken Angel Tutorial by Shivraj Morzaria"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/c96a8c79-d05e-4488-b145-f3be438102c2",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "brush",
+   "name": "Brush",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/2w9IIyeaMcY",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials and Drops - Brush Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/36b9bf55-1167-41f3-81c6-3d90a8402389",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "budget-cuts",
+   "name": "Budget Cuts",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/8xV8NVK_aj4",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "how to do BUDGET CUTS - cardistry tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "One-handed cuts",
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/7ce15705-6618-49af-ae05-f62d13b0d917",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "bullet",
+   "name": "Bullet",
+   "creator": "Andrei Jikh",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/XJoLhxAdBGg?t=14m49s",
+     "kind": "tips",
+     "teacher": "punchwater",
+     "status": "ok",
+     "title": "PRO CARD TWIRLING TUTORIAL - Improve Your Card Twirling (Flicker, Bullet etc!)"
+    },
+    {
+     "url": "https://store.theory11.com/products/genesis-by-andrei-jikh",
+     "kind": "buy",
+     "teacher": "theory11.com",
+     "status": "unchecked",
+     "title": null
+    }
+   ],
+   "iconic": true,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/86a649db-f87f-48ef-9c17-613e9ca72dbb"
+  },
+  {
+   "id": "candice",
+   "name": "Candice",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/eBMh6PjDIeQ",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Candice Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "canvas",
+   "name": "Canvas",
+   "creator": "Nikolaj Pedersen",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/kcBV7ZJR-7Y",
+     "kind": "tutorial",
+     "teacher": "Dealersgrip",
+     "status": "ok",
+     "title": "Canvas │ Cardistry Tutorial by Nikolaj Pedersen"
+    }
+   ],
+   "iconic": false,
+   "category": "Shuffles & weaves",
+   "source": "youtube",
+   "categories": [
+    "Shuffles & weaves",
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/61d45b92-b211-4ac5-bd69-1f3c8b4b3067",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "capsize",
+   "name": "Capsize",
+   "creator": "Daniel Lin",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/kUlydrubd8A",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Capsize Tutorial by Daniel Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/cf1ff4a0-0218-4ccc-a016-b37287933101",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "card-roll",
+   "name": "Card Roll",
+   "creator": "Yang Nguyen",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/W9AQ94tIyws",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Card Roll Tutorial by Yang Nguyen"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/a204c7f1-ea2f-46f6-b51d-66d666366c10",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "carnahan-fan",
+   "name": "Carnahan Fan",
+   "creator": "Dan and Dave Buck",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Jhi_YgKXJR8",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Fans - Carnahan Fan Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/f3798595-f8e4-47c3-857a-806c9cf1014b"
+  },
+  {
+   "id": "cascade",
+   "name": "Cascade",
+   "creator": "Classic Move",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/H0uZAZ537kI",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Cascade Tutorial"
+    },
+    {
+     "url": "https://youtu.be/sBfU6MS5-vY?t=6m",
+     "kind": "tutorial",
+     "teacher": "Chandler Henry",
+     "status": "ok",
+     "title": "FARO, FRIFFLE & CASCADE SHUFFLE // Cardistry Tutorial"
+    },
+    {
+     "url": "https://youtu.be/uWM2k6XkiiA",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Waterfall Tutorial"
+    },
+    {
+     "url": "https://youtu.be/lBz2Pi_4oXw",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "Waterfall // Cardistry Tutorial // the Classics"
+    },
+    {
+     "url": "https://youtu.be/1ZvSHSjJfTM",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - Waterfall Tutorial & Tips / Beginners Cardistry"
+    }
+   ],
+   "iconic": true,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/40c4d236-a9ad-47c6-a36b-3b7d1e6677e6"
+  },
+  {
+   "id": "casey-cut",
+   "name": "Casey Cut",
+   "creator": "Ekaterina",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/432Nl4AQFfs",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Casey Cut Tutorial by Ekaterina"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "castiron",
+   "name": "Castiron",
+   "creator": "Matt Samuel",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/ztuXhY-0ifY",
+     "kind": "tutorial",
+     "teacher": "Best Cardist Alive",
+     "status": "ok",
+     "title": "CASTIRON - Cardistry Tutorial - Matt Samuel"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/3126bf79-c9b8-4b9a-a6b9-9f5b2450cc74"
+  },
+  {
+   "id": "chan",
+   "name": "Chan",
+   "creator": "Nguyen Hoang Duy",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/fjc10IfUx-I",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "Chan tutorial by Nguyen Hoang Duy - Di.cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "charlier-triangle",
+   "name": "Charlier Triangle",
+   "creator": "Classic Move",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/W1_k50kNLw4",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cut - Charlier Triangle Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts"
+   ]
+  },
+  {
+   "id": "chaser",
+   "name": "Chaser",
+   "creator": "Dimitri Arleri",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/m8cnf1HFEu4",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: CHASER by Dimitri Arleri | Quickie | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Combos",
+   "source": "youtube",
+   "categories": [
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/2057f617-13a8-47e3-b167-79df6b44329e",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "chik-chik",
+   "name": "Chik Chik",
+   "creator": "Nicolasupertramp",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Zng-_4LeWRc",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Card Twirls - Chik Chik Tutorial ft. Nicolasupertramp"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls"
+   ]
+  },
+  {
+   "id": "chilli-crab",
+   "name": "Chilli Crab",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/9ox2Q-UtHg0",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-hand Cuts - Chilli Crab Tutorial ft. itsteam"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "chimera",
+   "name": "Chimera",
+   "creator": "Daniel Lin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/NYhQnnDKNSs",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | Interlocks - Chimera Tutorial by Daniel Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Shuffles & weaves",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/6bda606f-49b0-4a49-a35e-adf4c9a33142",
+   "levelSource": "you"
+  },
+  {
+   "id": "chop-block",
+   "name": "Chop Block",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/iIAf4-hYeW4",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Chop Block Tutorial ft. Sean O"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "clustercuss",
+   "name": "Clustercuss",
+   "creator": null,
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/UM_u-F8E7oM",
+     "kind": "tutorial",
+     "teacher": "Best Cardist Alive",
+     "status": "ok",
+     "title": "CLUSTERCUSS - Cardistry Tutorial - Lewis Caldwell"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/0f92d086-fcb1-48e5-a42b-9eca50f3bf8d",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "compactor",
+   "name": "Compactor",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/IEKwDK26Q6U",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Compactor Tutorial ft. Rassul Karymsakov"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "compression",
+   "name": "Compression",
+   "creator": "Zomb Tien",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/s4TQgez2Ek4",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Compression Tutorial by Zomb Tien"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops",
+    "Shuffles & weaves"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "conglomerate",
+   "name": "Conglomerate",
+   "creator": "Linus Schmidt",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/RgXGko68Fw4",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Conglomerate Cardistry Tutorial by Linus Schmidt"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Combos"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "cookie",
+   "name": "Cookie",
+   "creator": "Cedric Papy",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/3x-PAZC-zLE",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: COOKIE by Cedric Papy | Quickie | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts",
+    "Twirls",
+    "Combos"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "corner-spin-grip",
+   "name": "Corner Spin Grip",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/KpRSNCWtz3o",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Basic - Corner Spin Grip Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Basics",
+   "source": "youtube",
+   "categories": [
+    "Basics"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "crawl",
+   "name": "Crawl",
+   "creator": "Franco Pascali",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/BpgQoQlnw0U",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "CRAWL by Franco Pascali | Cardistry Tutorial | Fontaine Cards"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ]
+  },
+  {
+   "id": "crescent-rose",
+   "name": "Crescent Rose",
+   "creator": "Teo Chun Chieh",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/6zzsslPaC-g",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | Fans & Spreads - Crescent Rose Tutorial by Teo Chun Chieh"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads"
+   ]
+  },
+  {
+   "id": "crossed",
+   "name": "Crossed",
+   "creator": "Ladislas Toubart",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/dpmljqHIJ8w",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: CROSSED by Ladislas Toubart | Quickie | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "cubic",
+   "name": "Cubic",
+   "creator": "Dan Song",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/nFmJk57rNtY",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Cubic Tutorial by Dan Song"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "deck-conditioning",
+   "name": "Deck Conditioning",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/CxgKj8O8Ckc",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Deck Conditioning Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Basics",
+   "source": "youtube",
+   "categories": [
+    "Basics"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "deck-flip",
+   "name": "Deck Flip",
+   "creator": "T.G. Murphy",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/DFIf1ZC1lY4",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Deck Flip Tutorial"
+    },
+    {
+     "url": "https://store.theory11.com/products/the-trilogy-by-dananddave",
+     "kind": "buy",
+     "teacher": "theory11.com",
+     "status": "unchecked",
+     "title": null
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/153e278a-cf9d-4392-a688-9899d83378ee"
+  },
+  {
+   "id": "disk-fan",
+   "name": "Disk Fan",
+   "creator": "Predator",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/gZjRfk52Lqk",
+     "kind": "tutorial",
+     "teacher": "RpH180",
+     "status": "ok",
+     "title": "Disk / Cardistry Tutorial / Predator"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/95731064-8867-4a40-a7c0-e53aa0b08429"
+  },
+  {
+   "id": "dodge",
+   "name": "Dodge",
+   "creator": "Chase Duncan",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/RzsFXp_-dxo",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: DODGE by Chase Duncan | Squids | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "double-barrel",
+   "name": "Double Barrel",
+   "creator": "Daniel Lin",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Fpww7xbsBcc",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry | Double Barrel Tutorial by Daniel Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "Isolations",
+   "source": "youtube",
+   "categories": [
+    "Isolations"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/11baa4ba-2096-4d8c-a4c2-461402d743b4",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "double-revolution",
+   "name": "Double Revolution",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Yhazn4oHYGs",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Double Revolution Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "dr-strange",
+   "name": "Dr. Strange",
+   "creator": "Kurtis Lin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/JfuPF1skIns",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | Isolation - Dr. Strange Tutorial by Kurtis Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "Isolations",
+   "source": "youtube",
+   "categories": [
+    "Isolations"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/56a0a267-e96a-4c79-86b5-79d615635439",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "dr-twinkle",
+   "name": "Dr. TWINKLE",
+   "creator": "Ladislas Toubart",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/6ogTnOgKGdk",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: Dr. TWINKLE by Ladislas Toubart | Squids | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "dripple",
+   "name": "Dripple",
+   "creator": "Alvin Herp",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/hwTxU08nHsk",
+     "kind": "tutorial",
+     "teacher": "Hung Tran",
+     "status": "ok",
+     "title": "Dripple Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ]
+  },
+  {
+   "id": "dropout",
+   "name": "Dropout",
+   "creator": "Oliver Sogard",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/0_naI7jtzmc",
+     "kind": "tutorial",
+     "teacher": "Dealersgrip",
+     "status": "ok",
+     "title": "Dropout │ Cardistry Tutorial by Oliver Sogard"
+    }
+   ],
+   "iconic": false,
+   "category": "Combos",
+   "source": "hub",
+   "categories": [
+    "Combos",
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/305dad8c-0999-46e9-9a67-6b066ab0dd23"
+  },
+  {
+   "id": "duly",
+   "name": "DuLy",
+   "creator": "Nguyen Hoang Duy",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/aZMmicRCovY",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "DuLy tutorial by Nguyen Hoang Duy - Di.cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "dump",
+   "name": "Dump",
+   "creator": "Frank Sung",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://frankistea.gumroad.com/l/dumptut",
+     "kind": "buy",
+     "teacher": "gum.co",
+     "status": "unchecked",
+     "title": null
+    }
+   ],
+   "iconic": true,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts",
+    "Aerials & drops",
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/41512091-3a8d-4664-8733-6bb16a7d26fe"
+  },
+  {
+   "id": "dunsmuir",
+   "name": "Dunsmuir",
+   "creator": "Daniel Lin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/vvPeJw3t2aE",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | Two Hand Cut - Dunsmuir Tutorial by Daniel Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/ea707780-d20d-4d23-810e-b7fe12dd7d2a"
+  },
+  {
+   "id": "erdnase-go-round",
+   "name": "Erdnase Go Round",
+   "creator": "Dan and Dave Buck",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/GKlB9HuFBeU",
+     "kind": "tutorial",
+     "teacher": "Chandler Henry",
+     "status": "ok",
+     "title": "CARDISTRY TUTORIAL // EASY & AMAZING ONE-HANDED THROW"
+    },
+    {
+     "url": "https://youtu.be/cRH_kLqVX-I",
+     "kind": "tips",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tips, Variations & Combos: ERDNASE GO ROUND by Matthew Beaudouin | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/7ff918d4-6c07-419f-98d1-d9ee974bcc49"
+  },
+  {
+   "id": "falling-nebula",
+   "name": "Falling Nebula",
+   "creator": "Lance Maderal",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/oT9UhzNlcVk",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Falling Nebula Tutorial by Lance Maderal"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "falling-prince",
+   "name": "Falling Prince",
+   "creator": "Kurtis Lin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/RrtNjCYUtGE",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-card Moves - Falling Prince ft. Kurtis Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls"
+   ]
+  },
+  {
+   "id": "fan-drop",
+   "name": "Fan Drop",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/C5UtLaqzavg",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials and Drops - Fan Drop Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "youtube",
+   "categories": [
+    "Fans & spreads"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "fan-vanish",
+   "name": "Fan Vanish",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/fa3ftkf4AHc",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Spreads - Fan Vanish Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "youtube",
+   "categories": [
+    "Fans & spreads"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "fang",
+   "name": "Fang",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/upZ0wGj13wY",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cuts - Fang Tutorial ft. Teo Chun Chieh"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "ferris",
+   "name": "Ferris",
+   "creator": "Dan and Dave Buck",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/lLNzv0tkPbA",
+     "kind": "tutorial",
+     "teacher": "December Boys",
+     "status": "ok",
+     "title": "Ferris. Twirl. Buck Shot by Dave Buck ● CARDISTRY TUTORIAL"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/ad6b2b14-626c-40cb-8c0c-400ee742b38c"
+  },
+  {
+   "id": "fireblast",
+   "name": "Fireblast",
+   "creator": "Leon Tai",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/D_-4z29DIdQ",
+     "kind": "tutorial",
+     "teacher": "Kenneth Aidan Foo",
+     "status": "ok",
+     "title": "Fireblast by Leon Tai - Finesse Cardistry Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/096216dd-dee7-4e0c-980e-d433d6c415b9",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "flashie",
+   "name": "Flashie",
+   "creator": "Giona Silei",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/m1qk020_wFY",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: FLASHIE by Giona Silei | Quickie | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "flatlander",
+   "name": "Flatlander",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/DHEBY66oMW0",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Flatlander Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "flex",
+   "name": "Flex",
+   "creator": "Jonathan Warren",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/IYo6W9wyHxw",
+     "kind": "tutorial",
+     "teacher": "December Boys",
+     "status": "ok",
+     "title": "How to Flex ● CARDISTRY TUTORIAL"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ]
+  },
+  {
+   "id": "flic",
+   "name": "Flic",
+   "creator": "Dan and Dave Buck",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/vG3hSfTdD2Y",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials & Drops - Flick Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ]
+  },
+  {
+   "id": "flicker",
+   "name": "Flicker",
+   "creator": "The Virts",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/RxGaOdPqVzo",
+     "kind": "tutorial",
+     "teacher": "NHK1995",
+     "status": "ok",
+     "title": "Flicker Tutorial"
+    },
+    {
+     "url": "https://youtu.be/XJoLhxAdBGg?t=81",
+     "kind": "tips",
+     "teacher": "punchwater",
+     "status": "ok",
+     "title": "PRO CARD TWIRLING TUTORIAL - Improve Your Card Twirling (Flicker, Bullet etc!)"
+    },
+    {
+     "url": "https://youtu.be/mfEpg3OxYWk",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "Flucker tutorial by Nguyen Hoang Duy | Di.cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls",
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/fe8165f7-8443-4a3a-be63-d32c84f54118"
+  },
+  {
+   "id": "fling",
+   "name": "Fling",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/jvANVdzorj8",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners:  One-card Moves - Fling Tutorial ft. Kenneth Aidan Foo"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/d3f16c24-3538-4baf-9a6f-c0b418cf8a79",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "flipback",
+   "name": "Flipback",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Yih2nlnqOXg",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Basics - Flipback Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Basics",
+   "source": "youtube",
+   "categories": [
+    "Basics"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "flipback-fan",
+   "name": "Flipback Fan",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/4OwDq6dXM5E",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Spreads - Flipback Fan Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "youtube",
+   "categories": [
+    "Fans & spreads"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/bad1c62f-486d-43d0-8da8-7d39334c9888",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "flippy",
+   "name": "Flippy",
+   "creator": "Nguyen Hoang Duy",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/90mwq9S4a5s?t=37",
+     "kind": "tutorial",
+     "teacher": "Best Cardist Alive",
+     "status": "ok",
+     "title": "FLAPPY - David Beancurd - Cardistry Tutorial"
+    },
+    {
+     "url": "https://thenewdeckorder.com/products/spingod",
+     "kind": "buy",
+     "teacher": "the-new-deck-order.myshopify.com",
+     "status": "unchecked",
+     "title": null
+    }
+   ],
+   "iconic": false,
+   "category": "Combos",
+   "source": "hub",
+   "categories": [
+    "Combos"
+   ]
+  },
+  {
+   "id": "flop",
+   "name": "Flop",
+   "creator": "Daniel Lin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/A5TscR-_hvM",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | Twirls & Flirts - Flop Tutorial by Daniel Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls",
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/2620a033-5334-48d7-9062-d3219d5697f0",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "flower-fan",
+   "name": "Flower Fan",
+   "creator": "Jerry Cestkowski",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/mBX-vhWpOtA",
+     "kind": "tutorial",
+     "teacher": "TheCuso",
+     "status": "ok",
+     "title": "Card Flourishes - FLOWER FAN TUTORIAL"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/3d015eb3-2de6-493c-a525-f19a436cabb9"
+  },
+  {
+   "id": "flutter",
+   "name": "Flutter",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/TBK1s-FM2TU",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Card Twirl - Flutter Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "friction-cut",
+   "name": "Friction Cut",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/VV2oWy5JBlw",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Friction Cut Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "friffle",
+   "name": "Friffle",
+   "creator": "Oliver Sogard",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/dt0UrHFAoZ8",
+     "kind": "tutorial",
+     "teacher": "Dealersgrip",
+     "status": "ok",
+     "title": "Friffle │ Cardistry Tutorial by Oliver Sogard"
+    }
+   ],
+   "iconic": true,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops",
+    "Shuffles & weaves"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/8624198d-d5b1-43e0-9157-a2818535e13d"
+  },
+  {
+   "id": "front-flip",
+   "name": "Front Flip",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/YzRa6D7DPz0",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials & Drops - Front Flip Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "frozen-comet",
+   "name": "Frozen Comet",
+   "creator": "Kurtis Lin",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/0Kef8YBAhew",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | Aerials - Frozen Comet Tutorial by Kurtis Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops",
+    "Fans & spreads",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/68bb97b0-e88f-41e3-b966-0ef493518d2c",
+   "levelSource": "you"
+  },
+  {
+   "id": "fulcrum",
+   "name": "Fulcrum",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/etKLJP9cieo",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Card Twirls - Fulcrum Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "funnel",
+   "name": "Funnel",
+   "creator": "Patrick Varnavas",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Puaoz9hddgc",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: FUNNEL by Patrick Varnavas | GOD LP | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Displays & structures"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "gearbox",
+   "name": "Gearbox",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/sER6cjZYqtA",
+     "kind": "tutorial",
+     "teacher": "Kenneth Aidan Foo",
+     "status": "ok",
+     "title": "NSS Cardistry Tutorial - Gearbox"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/3bc9c4dd-bbe8-4754-b33b-6241b371d47c",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "gecko",
+   "name": "Gecko",
+   "creator": "Tim Zumstein",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/HFAD7HzhrBE",
+     "kind": "tutorial",
+     "teacher": "Ardor",
+     "status": "ok",
+     "title": "Gecko /  Cardistry Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Combos",
+   "source": "hub",
+   "categories": [
+    "Combos"
+   ]
+  },
+  {
+   "id": "ghandi-s-flip-flop",
+   "name": "Ghandi s Flip Flop",
+   "creator": "Daniel Lin",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/f6d7x_CkC2U",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Ghandi's Flip Flop Tutorial by Daniel Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops",
+    "One-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/22a05b91-8f72-48aa-8514-b225dd03c4c7",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "giant-fan",
+   "name": "Giant Fan",
+   "creator": "Jerry Cestkowski",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/rSwTc81f3CE",
+     "kind": "tutorial",
+     "teacher": "52Kards",
+     "status": "ok",
+     "title": "The GIANT Card Fan Flourish [HD]"
+    },
+    {
+     "url": "https://youtu.be/hTtppxCDugk",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Spreads - Giant Fan Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/6d6fa702-2e29-4c77-a916-a8c070e01f39"
+  },
+  {
+   "id": "giant-spring",
+   "name": "Giant Spring",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/ylsCHTpu2A0",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials & Drops - Giant Spring Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "globetrotter",
+   "name": "Globetrotter",
+   "creator": "Daniel Lin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/3ORm-FkqAls",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | Display - Globetrotter Tutorial by Daniel Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/7a64c383-01bd-4808-8c2c-da20585314cf",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "hannah-and-the-pirate-caves",
+   "name": "Hannah And The Pirate Caves",
+   "creator": null,
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/jaz_cSLmomg",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "how to do HANNAH AND THE PIRATE CAVES"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/0622724f-a9f7-4338-84eb-35d04655852c",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "helix-fan",
+   "name": "Helix Fan",
+   "creator": "Daniel Lin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/OvQ76dq8_T4",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | Fans & Spreads - Helix Fan Tutorial by Daniel Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "youtube",
+   "categories": [
+    "Fans & spreads"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "hinge",
+   "name": "Hinge",
+   "creator": "Jonathan Foo",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/yMQOd60Zwfc",
+     "kind": "tutorial",
+     "teacher": "Kenneth Aidan Foo",
+     "status": "ok",
+     "title": "Hinge by Jonathan Foo - Finesse Cardistry Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "hlex",
+   "name": "HLEX",
+   "creator": "NGUYEN HOANG DUY",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/dzRzIwMRGzM",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "HLEX -Cardistry tutorial by NGUYEN HOANG DUY"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "hook",
+   "name": "Hook",
+   "creator": "Zach Mueller",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/jrVvVokplQ0",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "HOOK // Cardistry Tutorial by Zach Mueller"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/31e0a1a1-ebbf-427e-a089-edcefc60dd78"
+  },
+  {
+   "id": "hot-shot-separation",
+   "name": "Hot Shot Separation",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/OZkmBvKI0kQ",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials - Hot Shot Separation Tutorial ft. Dimitri"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "hot-wheels",
+   "name": "Hot Wheels",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/nfVTa2625dA",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Hot Wheels Tutorial ft. Ladislas"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "hummingbird",
+   "name": "Hummingbird",
+   "creator": "Daniel Lin",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/mod4T6O0P6A",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry | Hummingbird Tutorial by Daniel Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/691592ea-8663-47e4-b1da-6be654302ac3",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "hutto",
+   "name": "Hutto",
+   "creator": "Nguyen Hoang Duy",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/9PTg1xJVGVU",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "Hutto tutorial by Nguyen Hoang Duy - Di.cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "iguana",
+   "name": "Iguana",
+   "creator": "Salvador González",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/VgxbDhnzGdU",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: IGUANA by Salvador González | Quickie | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Displays & structures"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "index-cut",
+   "name": "Index Cut",
+   "creator": "Classic Move",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/RgZPZ1WR2f0",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cuts - Index Cut Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts"
+   ]
+  },
+  {
+   "id": "inso-iso",
+   "name": "Inso Iso.",
+   "creator": "Joey Cardist",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/IGtratrRTVM",
+     "kind": "tutorial",
+     "teacher": "Sergio Roca",
+     "status": "ok",
+     "title": "INSO - FREE TUTORIAL // AMAZING ISOLATION BY JOEY CARDIST"
+    }
+   ],
+   "iconic": false,
+   "category": "Isolations",
+   "source": "hub",
+   "categories": [
+    "Isolations",
+    "Twirls",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/15ec0e92-115d-4097-99f0-b57eec3c6622"
+  },
+  {
+   "id": "instant-replay",
+   "name": "Instant Replay",
+   "creator": "Paul Harris",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Ul4Kc9ZOUOY",
+     "kind": "tutorial",
+     "teacher": "52Kards",
+     "status": "ok",
+     "title": "Card Flourish: Instant Replay / Simple Switch (Paul Harris) Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/cb826c4f-1cee-480d-8348-cfec942cd504"
+  },
+  {
+   "id": "interlokt",
+   "name": "Interlokt",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/NOr8n0ayCms",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Interlokt Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "judo-flip",
+   "name": "Judo-Flip",
+   "creator": "Franco Pascali",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/XERJh5xlBps",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "Judo-Flip by Franco Pascali | Cardistry Tutorial | Fontaine Cards"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts",
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/b450206f-59f3-49ba-899c-4a90343ad109"
+  },
+  {
+   "id": "judo-shot",
+   "name": "Judo-Shot",
+   "creator": "Weston Hamilton",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/n9PQnaU3gCs",
+     "kind": "tutorial",
+     "teacher": "Weston Hamilton",
+     "status": "ok",
+     "title": "Judo Shot :: Cardistry Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ]
+  },
+  {
+   "id": "kabuto",
+   "name": "Kabuto",
+   "creator": "Yang Nguyen",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/w0n_UUoPY3A",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-hand Cuts - Kabuto Tutorial"
+    },
+    {
+     "url": "https://youtu.be/PHG4_vSESUM",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "Kabuto tutorial by Yang Nguyen - Di.cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/695eaa20-71d3-4e29-8d88-4ecb0b318fb0",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "king-slinger-2",
+   "name": "King Slinger 2",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/QZ_ehx0HxJE",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "how to do KING SLINGER 2 cardistry tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "kiwi",
+   "name": "Kiwi",
+   "creator": "Carl Karlsson",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/jAtL1Za-cdI",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cuts - Kiwi Tutorial by Carl Karlsson"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "knuckle-cut",
+   "name": "Knuckle Cut",
+   "creator": "Classic Move",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/bGBidZeAWXo",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cuts - Knuckle Cut Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts"
+   ]
+  },
+  {
+   "id": "kora-cuts",
+   "name": "Kora Cuts",
+   "creator": "Nicolas Supertramp",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/dP-WSqkDhVE",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: KORA CUTS by Nicolas Supertramp | Quickie | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "kroma-cuts",
+   "name": "Kroma Cuts",
+   "creator": "Jano Slap",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/789xKHZN6Pg",
+     "kind": "tutorial",
+     "teacher": "Best Cardist Alive",
+     "status": "ok",
+     "title": "Kroma Cuts - Cardistry Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts"
+   ]
+  },
+  {
+   "id": "ktching",
+   "name": "Ktching",
+   "creator": "Dimitri Arleri",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/osmIFEz161c",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: KTCHING by Dimitri Arleri | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "kyber",
+   "name": "Kyber",
+   "creator": "Matthew Beaudouin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/feiZyB8gZmM",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: KYBER by Matthew Beaudouin | Quickie | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "l-cuts",
+   "name": "L-Cuts",
+   "creator": "Jerry Cestkowski",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/5fwh3_FNeR4",
+     "kind": "tutorial",
+     "teacher": "Dealersgrip",
+     "status": "ok",
+     "title": "L-Cuts │ Cardistry Tips"
+    },
+    {
+     "url": "https://youtu.be/ghvrY7vzDWA",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cut - L Cut Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts"
+   ]
+  },
+  {
+   "id": "learning-flic-card-shot",
+   "name": "Learning FLIC Card Shot",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/O-0F8uYMMCc",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "Learning Cardistry “FLIC” Card Shot"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "legolove",
+   "name": "Legolove",
+   "creator": "Nikolaj Pedersen",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/boV0c7bKAcM",
+     "kind": "tutorial",
+     "teacher": "Dealersgrip",
+     "status": "ok",
+     "title": "Legolove │ Cardistry Tutorial by Nikolaj Pedersen"
+    }
+   ],
+   "iconic": false,
+   "category": "Combos",
+   "source": "hub",
+   "categories": [
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/45d2a347-a931-46f8-973c-c96442fa412a"
+  },
+  {
+   "id": "lepaul-spread",
+   "name": "LePaul Spread",
+   "creator": "Paul LePaul",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/eUqkN0N5w6M",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Lepaul Spread Tutorial"
+    },
+    {
+     "url": "https://youtu.be/pT5BrGDe_Ts",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Spreads - Lepaul Spread Tutorial"
+    }
+   ],
+   "iconic": true,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/32c88ea9-f224-4fd0-90c7-4d7f7478e1e4"
+  },
+  {
+   "id": "leporidae",
+   "name": "Leporidae",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/hSU8DD5I3F0",
+     "kind": "tutorial",
+     "teacher": "Kenneth Aidan Foo",
+     "status": "ok",
+     "title": "NSS Cardistry Tutorial - Leporidae"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "leviosa",
+   "name": "Leviosa",
+   "creator": "Edgar Isaac",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/5JJHtksRQK8",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: LEVIOSA by Edgar Isaac | EDG EP | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Isolations",
+   "source": "youtube",
+   "categories": [
+    "Isolations",
+    "Twirls"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "lite-dribble",
+   "name": "Lite Dribble",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/FQFI2JqVMRI",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "how to do LITE DRIBBLE cardistry tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops",
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/59141ca3-f549-4838-83a1-9ec0a9ee3569",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "long-dist-spinner",
+   "name": "Long Dist. Spinner",
+   "creator": "Audley V. Walsh",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/janqHU5Ydo0",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials & Drops - Long Distance Spinner Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ]
+  },
+  {
+   "id": "looper",
+   "name": "Looper",
+   "creator": "Ladislas Toubart",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/p52V7plGzQ0",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: LOOPER by Ladislas Toubart | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ]
+  },
+  {
+   "id": "looper-2",
+   "name": "Looper 2",
+   "creator": "Ladislas Toubart",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/-DvgDNo6R-M",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: LOOPER 2 by Ladislas Toubart | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "lucid",
+   "name": "Lucid",
+   "creator": "Daniel Lin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Or9jEBJOhYk",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | Two Hand Cut - Lucid Tutorial by Daniel Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/47348105-8c5a-4479-9e1e-d632b717cee5",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "lucky",
+   "name": "Lucky",
+   "creator": "Dimitri Arleri",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/I0WnfVWbBIU",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: LUCKY by Dimitri Arleri | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "magic-carpet",
+   "name": "Magic Carpet",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Wc_Qw0E9Q8o",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Isolation - Magic Carpet Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Isolations",
+   "source": "youtube",
+   "categories": [
+    "Isolations"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "makitsu",
+   "name": "Makitsu",
+   "creator": "Ladislas Toubart",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/d6ZQMh4uilI",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: MAKITSU by Ladislas Toubart | Quickie | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "mantra",
+   "name": "Mantra",
+   "creator": "Tobias Levin",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/_gOrnMy9Zm4?t=311",
+     "kind": "tips",
+     "teacher": "Juho Vuorela",
+     "status": "ok",
+     "title": "Tips on Mantra and why I don't use a full deck - Cardist Q&A!"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/e81cd267-6a05-4d50-8d1e-35175bbbbd8c"
+  },
+  {
+   "id": "maze-runner",
+   "name": "Maze Runner",
+   "creator": "Linus Schmidt",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/dvS8o8bzDWA",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Maze Runner Cardistry Tutorial by Linus Schmidt"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Combos"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "meta",
+   "name": "META",
+   "creator": "Antoine Cormerais",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/7-KBbwSPgeY",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: META by Antoine Cormerais | ATN EP |  Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "middle-out",
+   "name": "Middle Out",
+   "creator": "Matthew Beaudouin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/oWzsbn2gN5c",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: MIDDLE OUT by Matthew Beaudouin | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Displays & structures",
+    "Isolations"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "mockingbird",
+   "name": "Mockingbird",
+   "creator": "Daren Yeow",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Hb4snFAFzTw",
+     "kind": "tutorial",
+     "teacher": "Caspian Ahlberg",
+     "status": "ok",
+     "title": "教学分享 Daren Yeow - MockingBird Tutorial - Cardistry"
+    }
+   ],
+   "iconic": true,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/23a553cc-ec5c-449a-ae2c-617c8766394f"
+  },
+  {
+   "id": "molecule-cut",
+   "name": "Molecule Cut",
+   "creator": "Dan and Dave Buck",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://store.theory11.com/products/molecule-cut-by-dananddave",
+     "kind": "buy",
+     "teacher": "theory11.com",
+     "status": "unchecked",
+     "title": null
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/09b78387-a5d6-48e4-90e4-33c1f87df1b2"
+  },
+  {
+   "id": "msmkii",
+   "name": "Msmkii",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/rG3_CxLepTg",
+     "kind": "tutorial",
+     "teacher": "Kenneth Aidan Foo",
+     "status": "ok",
+     "title": "NSS Cardistry Tutorial - MSMKII"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "muse-cut",
+   "name": "Muse Cut",
+   "creator": "Henrik Forberg",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/bpKbyxk78yw",
+     "kind": "tutorial",
+     "teacher": "Henrik Forberg",
+     "status": "ok",
+     "title": "Muse Cut - Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/5a57ff0b-345b-4180-98bc-41f5b263082d"
+  },
+  {
+   "id": "name",
+   "name": "Name",
+   "creator": "Duy Nguyen",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/d4t5OSMAqJg",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | Isolation - Name Tutorial by Duy Nguyen"
+    }
+   ],
+   "iconic": false,
+   "category": "Isolations",
+   "source": "youtube",
+   "categories": [
+    "Isolations"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/79db74d5-08a7-458e-9f6a-d11a53fda4d9",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "namnlos",
+   "name": "Namnlos",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/KIFJFI5lpk4",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Namnlos Tutorial ft. Birger Karlsson"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/f0296ec3-01f5-4a31-98a2-540e5c1d159e",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "naoki-ogi-fan",
+   "name": "Naoki Ogi Fan",
+   "creator": "Naoki Ogi",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://www.youtube.com/watch?v=f6bi0L75_l8",
+     "kind": "tips",
+     "teacher": "shirosu",
+     "status": "ok",
+     "title": "Three-Sixty"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads"
+   ]
+  },
+  {
+   "id": "nestlo-iso",
+   "name": "Nestlo Iso.",
+   "creator": "Jaspas",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/dq6fbeIGfPI",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Isolation - Nestlo Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Isolations",
+   "source": "hub",
+   "categories": [
+    "Isolations"
+   ]
+  },
+  {
+   "id": "netsky",
+   "name": "Netsky",
+   "creator": "Daniel Lin",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/HhrBhyHnn54",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Netsky Tutorial by Daniel Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/57858c00-5d79-4424-b171-aac1a18b64ee",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "nevernude",
+   "name": "nevernude",
+   "creator": "Zach Mueller",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/VrBRQi-rwbk",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "nevernude // Cardistry Tutorial by Zach Mueller"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "newton-s-cradle",
+   "name": "Newton's Cradle",
+   "creator": "Daniel Lin",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/OFzD5CCxasg",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Newton's Cradle Tutorial by Daniel Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "Isolations",
+   "source": "youtube",
+   "categories": [
+    "Isolations"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/d57b58b2-7b54-49ae-bef7-fffcd0e350d5",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "no-weave-circle",
+   "name": "No-Weave Circle",
+   "creator": "nebelfuchs",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/fVxo9e0whbo",
+     "kind": "tutorial",
+     "teacher": "Nebelfuchs",
+     "status": "ok",
+     "title": "No-Weave Giant Circle Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads"
+   ]
+  },
+  {
+   "id": "oddstyle-01",
+   "name": "Oddstyle 01",
+   "creator": "Jaspas",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/oy2v7EnJXeg",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Oddstyle 01 Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/4852d7a5-c5bc-48a4-9d1d-eec80aea4079"
+  },
+  {
+   "id": "oddstyle-02",
+   "name": "Oddstyle 02",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/MQ4hz53S474",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Oddstyle 02 Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/cf1ff0aa-d05d-406b-985f-cb01fef11f35",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "oddstyle-03",
+   "name": "Oddstyle 03",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/u07WdsF4SYk",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Oddstyle 03 Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/7fdd4afb-5bad-4d7f-85ac-4e04b48c1cbd",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "oh-shuffle",
+   "name": "OH Shuffle",
+   "creator": "Jerry Cestkowski",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/TlfbxprcyMo",
+     "kind": "tutorial",
+     "teacher": "Chandler Henry",
+     "status": "ok",
+     "title": "CARDISTRY TUTORIAL // ONE HANDED SHUFFLE"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts"
+   ]
+  },
+  {
+   "id": "one-card-twirl",
+   "name": "One Card Twirl",
+   "creator": "Jaspas",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/aScUHcsIrvI",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Card Twirl - One Card Twirl Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls"
+   ]
+  },
+  {
+   "id": "one-handed-mechanical",
+   "name": "One Handed Mechanical",
+   "creator": "Dimitri Arleri",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/GR-j3Zt1bUk",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: ONE HANDED MECHANICAL by Dimitri Arleri | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "one-handed-thumb-fan",
+   "name": "One Handed Thumb Fan",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/55ZpvhFZbkI",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - One Handed Thumb Fan Tutorial & Tips / Beginners Cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "one-thumb-fan",
+   "name": "One Thumb Fan",
+   "creator": "NGUYEN HOANG DUY",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/m37I5BNIMEg",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "ONE THUMB FAN -Cardistry tutorial by NGUYEN HOANG DUY"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "youtube",
+   "categories": [
+    "Fans & spreads"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "one-handed-square",
+   "name": "One-handed Square",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/fqvwOAWg2Hw",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cut - One-handed Square Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "ora",
+   "name": "ORA",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/KIWH_Mfz-KY",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials & Drops - ORA Tutorial ft. Zombie Tien"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "oun",
+   "name": "Oun",
+   "creator": "Duy Nguyen",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/O2njp9oNmow",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "Oun Tutorial by Duy Nguyen - Di.cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Isolations",
+   "source": "youtube",
+   "categories": [
+    "Isolations"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "out-of-frame",
+   "name": "Out of Frame",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/-gZ7j6N7lhI",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Out of Frame Tutorial ft. @spratt_"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/78655541-56a0-4d3e-b9a5-6372406e57de",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "outbreak",
+   "name": "Outbreak",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/gTl4qVm4Yow",
+     "kind": "tutorial",
+     "teacher": "Best Cardist Alive",
+     "status": "ok",
+     "title": "OUTBREAK -  Cardistry Tutorial - Bogdan Lychev"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "packet-muscle-pass",
+   "name": "Packet Muscle Pass",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/juBlvKlK4-o",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials - Packet Muscle Pass Tutorial ft. @spratt_"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops",
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/cd80ad4b-62bf-44d7-bbd2-3b2b1c678582",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "packet-toss",
+   "name": "Packet Toss",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/YCLA7nJItW4",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials & Drops - Easy Packet Toss Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "padiddle-pirouette",
+   "name": "Padiddle / Pirouette",
+   "creator": "Jerry Cestkowski",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/HDbxF6ONp5I",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Basics - Pirouette Tutorial (How to spin a card on your fingertip)"
+    },
+    {
+     "url": "https://youtu.be/7kB3wfbuvAY",
+     "kind": "tips",
+     "teacher": "Dealersgrip",
+     "status": "ok",
+     "title": "Padiddle │ Cardistry Tips"
+    },
+    {
+     "url": "https://youtu.be/x_7njoWG9Yw",
+     "kind": "tips",
+     "teacher": "punchwater",
+     "status": "ok",
+     "title": "IMPROVE YOUR PADIDDLE : Padiddle Tips with Sean O."
+    },
+    {
+     "url": "https://youtu.be/LsdRkzNHDNU",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Pirouette Tutorial"
+    },
+    {
+     "url": "https://youtu.be/iH0Kpv55NH0",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "Piroutte // Cardistry Tutorial // the Classics"
+    },
+    {
+     "url": "https://youtu.be/TtukaI7rRMg",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - Pirouette Tutorial & Tips / Beginners Cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls"
+   ]
+  },
+  {
+   "id": "padlock",
+   "name": "Padlock",
+   "creator": "@martin_cardist",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/alCdn_oBcoc",
+     "kind": "tutorial",
+     "teacher": "THE CARD BROTHERS",
+     "status": "ok",
+     "title": "Padlock // Cardistry Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ]
+  },
+  {
+   "id": "palm-shift-iso",
+   "name": "Palm Shift Iso.",
+   "creator": "Jaspas",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/yh6y9duc9sI",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Isolation - Palm Shift Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Isolations",
+   "source": "hub",
+   "categories": [
+    "Isolations"
+   ]
+  },
+  {
+   "id": "palm-top-isolation",
+   "name": "Palm Top Isolation",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/MAMoRp2ZNtE",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Isolation - Palm Top Isolation Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Isolations",
+   "source": "youtube",
+   "categories": [
+    "Isolations"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/ea21f180-6f17-418a-b559-0ce0ac5d5853",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "pandora",
+   "name": "Pandora",
+   "creator": "Dan and Dave Buck",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://store.theory11.com/products/the-trilogy-by-dananddave",
+     "kind": "buy",
+     "teacher": "theory11.com",
+     "status": "unchecked",
+     "title": null
+    }
+   ],
+   "iconic": true,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/2617cd2e-8fac-44b3-9982-eca9b7e75593"
+  },
+  {
+   "id": "peach",
+   "name": "Peach",
+   "creator": "Frank Sung",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Jc_GD8KONYo",
+     "kind": "tutorial",
+     "teacher": "Frank Sung",
+     "status": "ok",
+     "title": "Peach | Cardistry Tutorial by Frank Sung"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ]
+  },
+  {
+   "id": "pearl",
+   "name": "Pearl",
+   "creator": "Evan Alberto",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/eqDwzoML1gc",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "Pearl by Evan Alberto | Cardistry Tutorial | Fontaine Cards"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "periphery",
+   "name": "Periphery",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/evxkVME-xdM",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-card Twirl - Periphery Tutorial ft. Ling Nemesis"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "petite",
+   "name": "Petite",
+   "creator": "Henrik Forberg",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/1WW-rfoF10g",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: PETITE by Henrik Forberg | Quickie | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "phaced",
+   "name": "Phaced",
+   "creator": "Tobias Levin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/-YvPnQFHIK4",
+     "kind": "tutorial",
+     "teacher": "Dealersgrip",
+     "status": "ok",
+     "title": "Phaced │ Cardistry Tutorial by Tobias Levin"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/1c2a04a8-fed2-4c2f-a942-61271a2f7c07"
+  },
+  {
+   "id": "pickpocket",
+   "name": "Pickpocket",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/0fqIRmmsCow",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Pickpocket Tutorial ft. Salvador"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "pilf",
+   "name": "Pilf",
+   "creator": "Gaolock",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/IVPqGDF51l4",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "Pilf tutorial by Gaolock - Di.cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/5d5e72f4-47cc-47b3-850a-84b00ffd6b4a",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "pinball",
+   "name": "Pinball",
+   "creator": "Harrison Mace",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/T3KO1QNf9YU",
+     "kind": "tutorial",
+     "teacher": "Harri",
+     "status": "ok",
+     "title": "PINBALL - Cardistry Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/e28f426a-4d97-4ff0-ab46-8832a44d6719"
+  },
+  {
+   "id": "pincho",
+   "name": "Pincho",
+   "creator": "Oliver Sogard",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/CiFSZ7CTVu8",
+     "kind": "tutorial",
+     "teacher": "Dealersgrip",
+     "status": "ok",
+     "title": "Pincho │ Cardistry Tutorial by Oliver Sogard"
+    }
+   ],
+   "iconic": false,
+   "category": "Combos",
+   "source": "hub",
+   "categories": [
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/1fabd191-de1a-4c05-b883-f75b99cb109e"
+  },
+  {
+   "id": "pinocchio",
+   "name": "Pinocchio",
+   "creator": "Long Hoang",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/rFVijZv275I",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Pinocchio Tutorial by Long Hoang"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/710d4639-7d17-421d-b958-03c054d6cf33",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "pivot-a-card",
+   "name": "pivot a card",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/kiai84VWHCk",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Basics - How to pivot a card"
+    }
+   ],
+   "iconic": false,
+   "category": "Basics",
+   "source": "youtube",
+   "categories": [
+    "Basics"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "plinc",
+   "name": "Plinc",
+   "creator": "Sean Tan",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/yOZxm0hlAG0",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials - Plinc by Sean Tan Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "plumelle",
+   "name": "Plumelle",
+   "creator": "Anthony Chanut",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/SkXWGu7ofRg",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: PLUMELLE by Anthony Chanut | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "pogo",
+   "name": "Pogo",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/fZjbq6NSAlE",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Pogo Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "pressure-fan",
+   "name": "Pressure Fan",
+   "creator": "Classic Move",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/-GN_azvuYH4",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Pressure Fan Tutorial"
+    },
+    {
+     "url": "https://youtu.be/MoEZUNV9DWY?t=1m29s",
+     "kind": "tutorial",
+     "teacher": "Chandler Henry",
+     "status": "ok",
+     "title": "Under Pressure & Pressure Fan // CARDISTRY TUTORIALS"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/c7147f4f-de81-42c8-aeda-ae667f51c75f"
+  },
+  {
+   "id": "prestige-isolation",
+   "name": "Prestige Isolation",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/2DlDWhKUFz0",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Isolation - Prestige Isolation Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Isolations",
+   "source": "youtube",
+   "categories": [
+    "Isolations",
+    "Twirls",
+    "Fans & spreads"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/ee3b6273-5fe3-41de-99fc-55b0594cdb3d",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "prism",
+   "name": "Prism",
+   "creator": "Andrew Avila",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Etyn-vUg-bI",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: PRISM by Andrew Avila | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/10dbe56c-f06e-4c65-bf48-6d02c46c213f",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "pwirl",
+   "name": "Pwirl",
+   "creator": "NGUYEN HOANG DUY",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Pk569y97Gxs",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "PWIRL -Cardistry tutorial by NGUYEN HOANG DUY"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "raihan-s-square",
+   "name": "Raihan s Square",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/TnKdlnWJIww",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Isolation - Raihan's Square Tutorial ft. Raihan Roslan"
+    }
+   ],
+   "iconic": false,
+   "category": "Isolations",
+   "source": "youtube",
+   "categories": [
+    "Isolations"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "reborn",
+   "name": "Reborn",
+   "creator": "Ladislas Toubart",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/I5kZvqSg5Nk",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: REBORN by Ladislas Toubart | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "recasting-sequence",
+   "name": "Recasting Sequence",
+   "creator": "Ryoma",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/C8RW9Xv1jDI",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | Structure - Recasting Sequence Tutorial by Ryoma"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "recoil",
+   "name": "Recoil",
+   "creator": "Yang Chan",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/TlsIZZL6BzE",
+     "kind": "tutorial",
+     "teacher": "Best Cardist Alive",
+     "status": "ok",
+     "title": "RECOIL - YANG CHAN - Slow Overview"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls"
+   ]
+  },
+  {
+   "id": "retrigger",
+   "name": "Retrigger",
+   "creator": "Oliver Sogard",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/5MiqDxD_SJg",
+     "kind": "tutorial",
+     "teacher": "Dealersgrip",
+     "status": "ok",
+     "title": "Cardistry Tutorial — RETRIGGER by Oliver Sogard"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/d8e2e9f1-928c-41ca-95df-132ffa5e30fd"
+  },
+  {
+   "id": "rev-e",
+   "name": "Rev E",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/P6k16D72odQ",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials and Tosses - Rev E Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "reverlution",
+   "name": "Reverlution",
+   "creator": "NGUYEN HOANG DUY",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/pO91x4-jsOM",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "REVERLUTION -Cardistry tutorial by NGUYEN HOANG DUY"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "reverse-fan",
+   "name": "Reverse Fan",
+   "creator": "Classic Move",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/3L-Z6H6oeck",
+     "kind": "tutorial",
+     "teacher": "Chandler Henry",
+     "status": "ok",
+     "title": "Reverse Fan Flourish // CARDISTRY TUTORIAL"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads"
+   ]
+  },
+  {
+   "id": "riffle-fan",
+   "name": "Riffle Fan",
+   "creator": "Dmitri Arleri",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/wNL7Vsw2L2A",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: RIFFLE FAN by Dimitri Arleri | Cardistry Touch"
+    },
+    {
+     "url": "https://youtu.be/AcKhf1_qY_k",
+     "kind": "tips",
+     "teacher": "Chandler Henry",
+     "status": "ok",
+     "title": "RIFFLE FAN TIPS // Cardistry Troubleshooting"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/4d9c27c6-0bdc-4e28-a477-84460dae95d8"
+  },
+  {
+   "id": "ripple",
+   "name": "Ripple",
+   "creator": "Kenneth Aidan Foo",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://thenewdeckorder.com/collections/all/products/ripple-4",
+     "kind": "buy",
+     "teacher": "the-new-deck-order.myshopify.com",
+     "status": "unchecked",
+     "title": null
+    }
+   ],
+   "iconic": true,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/856b38f7-522c-4c2e-a5fb-7e71373738f3"
+  },
+  {
+   "id": "ro-cut",
+   "name": "Ro Cut",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/awcV_wMcRIU",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cuts - Ro Cut Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "rock-the-boat",
+   "name": "Rock the Boat",
+   "creator": "Billy Markowitz",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/ubkbL9BlVTo",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | Interlocks - Rock the Boat Tutorial by Billy Markowitz"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "rolling-thunder",
+   "name": "Rolling Thunder",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/HcW_gjZGm4Q",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Rolling Thunder Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/8ff15815-a590-4ac7-b653-0da7d0f1e2cd",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "rotating-triangle-bridge-sybil",
+   "name": "Rotating Triangle Bridge Sybil",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/t3bWFQznpV8",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Rotating Triangle Bridge Sybil Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "rotation-iso",
+   "name": "Rotation Iso.",
+   "creator": "Jaspas",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/aXa-8-lca5g",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Isolation - Rotation Isolation Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Isolations",
+   "source": "hub",
+   "categories": [
+    "Isolations"
+   ]
+  },
+  {
+   "id": "roulette",
+   "name": "Roulette",
+   "creator": "Dimitri Arleri",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/NBNDmyjZzsY",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: ROULETTE by Dimitri Arleri | Quickie | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "sange",
+   "name": "Sange",
+   "creator": "Daniel Lin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/fwD8PkEqyew",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | One Hand Cut - Sange Tutorial by Daniel Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts",
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/42a986c0-6269-4359-a1e6-cf495375b64a"
+  },
+  {
+   "id": "scissor-cut-and-reverse-scissor-cut",
+   "name": "Scissor Cut and Reverse Scissor Cut",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/ckdI2f5EVDc",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - Scissor Cut and Reverse Scissor Cut Tutorial & Tips / Beginners Cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "scissor-cut-extension",
+   "name": "Scissor Cut Extension",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/QYylPaxag5I",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cut - Scissor Cut Extension Tutorial (Advanced Variation)"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "scythe-sybil",
+   "name": "Scythe Sybil",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/zaxmRQ-aLH0",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Scythe Sybil Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "seattleite",
+   "name": "Seattleite",
+   "creator": "Zach Mueller",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/bMZ3vl6hasI",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "Seattleite // Cardistry Tutorial by Zach Mueller"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/375da2bd-f2ec-483b-b041-f0bc006c677a",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "shear-cut",
+   "name": "Shear Cut",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/iM2HO7fcTDo",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cut - Shear Cut"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "shyamalan",
+   "name": "Shyamalan",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/RdaKjEGwUcc",
+     "kind": "tutorial",
+     "teacher": "Kenneth Aidan Foo",
+     "status": "ok",
+     "title": "NSS Cardistry Tutorial - Shyamalan"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "side-pressure-fan",
+   "name": "Side Pressure Fan",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/iz8egMNka_k",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Spreads - Side Pressure Fan Tutorial (Create bigger fans!)"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "youtube",
+   "categories": [
+    "Fans & spreads"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/20c3066e-abed-435b-84d3-fd6eb4c19b4d",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "sigmatoss",
+   "name": "Sigmatoss",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/rpOCb7Bj1i8",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Sigmatoss Tutorial ft. Matthew Beaudouin"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "skater-cut-kickflip",
+   "name": "Skater Cut/Kickflip",
+   "creator": "Joey Burton & Dan and Dave Buck",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/yCY2SOw4ZuI",
+     "kind": "tutorial",
+     "teacher": "Chris Ramsay",
+     "status": "ok",
+     "title": "KICK FLIP FLOURISH - CARDISTRY TUTORIAL"
+    },
+    {
+     "url": "https://youtu.be/PBuHNfjj_8U",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut- Kickflip Skater Cut Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ]
+  },
+  {
+   "id": "slash",
+   "name": "Slash",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/z9v7i30lsOQ",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Card Twirls - Slash Tutorial ft. Vilmos"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "slicing-waterfall",
+   "name": "Slicing Waterfall",
+   "creator": "Jaspas",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/TYHV-8uSnkg",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials & Drops - Slicing Waterfall"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ]
+  },
+  {
+   "id": "slider-concept",
+   "name": "Slider Concept",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/-dc_C103yXI",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Slider Concept Tutorial ft. Ryoma"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "slip-n-slide",
+   "name": "Slip N Slide",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/TMaqAZE34dc",
+     "kind": "tutorial",
+     "teacher": "Best Cardist Alive",
+     "status": "ok",
+     "title": "Slip 'N Slide - Theo Müller - Cardistry Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/6dac58b0-6ada-4c0a-a9a1-becbe79e53bb",
+   "levelSource": "you"
+  },
+  {
+   "id": "snake-cascade",
+   "name": "Snake Cascade",
+   "creator": "Yang Nguyen",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/dL0ZxM0b7G4",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Snake Cascade Tutorial by Yang Nguyen"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/13e257f0-a1ab-4913-a915-1cec5a5c715c",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "snake-charmer",
+   "name": "Snake Charmer",
+   "creator": "Kevin Ho",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/-sQFQEIuiTA",
+     "kind": "tutorial",
+     "teacher": "Kevin Ho",
+     "status": "ok",
+     "title": "Cardistry Tutorial - Snake Charmer by Kevin Ho"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/8b22d804-c06c-4151-a109-3e6d0011429b"
+  },
+  {
+   "id": "snaker",
+   "name": "Snaker",
+   "creator": "Giona Silei",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/mlAVy1XGnbM",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: SNAKER by Giona Silei - Quickie - [ zalēm.industries ]"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "snap",
+   "name": "Snap",
+   "creator": "Nguyen Hoang Duy",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://www.youtube.com/watch?v=7fLC46AYgLs",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "Snap Isolation tutorial by Nguyen Hoang Duy | Di.cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls"
+   ]
+  },
+  {
+   "id": "snatch",
+   "name": "Snatch",
+   "creator": "Dimitri Arleri",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/ABBocgp7tlo",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: SNATCH by Dimitri Arleri | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Combos",
+   "source": "youtube",
+   "categories": [
+    "Combos"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "somethree",
+   "name": "Somethree",
+   "creator": "Nguyen Hoang Duy",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/hSWGCRQ-lQ4",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "Somethree tutorial by Nguyen Hoang Duy - Di.cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "spin-sybil",
+   "name": "Spin Sybil",
+   "creator": "Jaspas",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/uOFnZ8fzowE",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Spin Sybil Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/95bfc86e-5ba3-4556-849c-7505175fc6dc"
+  },
+  {
+   "id": "spinbullet",
+   "name": "Spinbullet",
+   "creator": "NGUYEN HOANG DUY",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/jCcE6JfIX9s",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "SPINBULLET -Cardistry tutorial by NGUYEN HOANG DUY"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls",
+    "Combos"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "spock",
+   "name": "Spock",
+   "creator": "Hector Garcia",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/K4Gn2lGeFBM",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "Spock by Hector Garcia | Cardistry Tutorial | Fontaine Cards"
+    }
+   ],
+   "iconic": false,
+   "category": "Isolations",
+   "source": "youtube",
+   "categories": [
+    "Isolations"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/548c33af-7608-4135-9fa8-1e8955cc60bf",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "spring-spin",
+   "name": "Spring Spin",
+   "creator": "Antariksh Singh",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/iqib_zQ9Yms",
+     "kind": "tutorial",
+     "teacher": "Antariksh Singh",
+     "status": "ok",
+     "title": "Giving Back (1) - Spring Spin Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops",
+    "Twirls"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/05abd096-8de8-4d6b-9df0-4b7e76218656"
+  },
+  {
+   "id": "square-display",
+   "name": "Square Display",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Y--mKMSKSoM",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Easy Square Display Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "squeeze",
+   "name": "Squeeze",
+   "creator": "Daren Yeow",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/OE4La-L15VE",
+     "kind": "tips",
+     "teacher": "Juho Vuorela",
+     "status": "ok",
+     "title": "Cardistry Tips - Level Up Your Squeeze!"
+    }
+   ],
+   "iconic": true,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ]
+  },
+  {
+   "id": "squish",
+   "name": "Squish",
+   "creator": "Matthew Beaudouin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/BMLH-2jfie4",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: SQUISH by Matthew Beaudouin | MTH EP | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Displays & structures"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "squoze",
+   "name": "Squoze",
+   "creator": "Eliot Slevin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/DqFJCuQhIE4",
+     "kind": "tutorial",
+     "teacher": "Eliot Slevin",
+     "status": "ok",
+     "title": "Squoze Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/2e30834c-f877-40dc-bdd9-34ad5894dd39"
+  },
+  {
+   "id": "subway",
+   "name": "Subway",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/weJAqTerPRI",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Subway Tutorial ft. Kenneth Lee"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "surf",
+   "name": "Surf",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/kHUFVEj3bhU",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cuts - Surf ft. Daniel Lin"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "swing-opener",
+   "name": "Swing Opener",
+   "creator": "Jaspas",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/ATXFLKX2Vf4",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Deck Opener - Swing Opener Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/589a799b-c269-44a5-aae5-ee62d44df2f6"
+  },
+  {
+   "id": "tango",
+   "name": "Tango",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/h0CCz1AUV1g",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Tango Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "tatum",
+   "name": "Tatum",
+   "creator": "Raihan Roslan",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/DIUCZ3JZGZA",
+     "kind": "tutorial",
+     "teacher": "Kenneth Aidan Foo",
+     "status": "ok",
+     "title": "Tatum by Raihan Roslan - Finesse Cardistry Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "thin-spring",
+   "name": "Thin Spring",
+   "creator": "Classic Move",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/YeGPp3J774g",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Aerials & Drops - Thin Spring Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/a56210e2-0e08-441f-a9e6-715f08ff4ae2"
+  },
+  {
+   "id": "this-is-a-closer",
+   "name": "This Is A Closer",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/G7sgObyP-O4",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - This Is A Closer Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "thought-loop",
+   "name": "Thought loop",
+   "creator": "Yang Nguyen",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/eAQlD92guwE",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "Thought loop tutorial by Yang Nguyen - Di.cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "throwback",
+   "name": "Throwback",
+   "creator": "Max Galarce",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/fwxIraySvIE",
+     "kind": "tutorial",
+     "teacher": "Best Cardist Alive",
+     "status": "ok",
+     "title": "THROWBACK - Cardistry Tutorial - Max Galarce"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops",
+    "Twirls",
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/2b7059d5-51ec-434f-aa05-8400ce54f2ec"
+  },
+  {
+   "id": "thumb-cut",
+   "name": "Thumb Cut",
+   "creator": "Classic Move",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/f10VOtEsLZQ",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp - Basics / Thumb Cut Tutorial"
+    },
+    {
+     "url": "https://youtu.be/p8yYTy-5cFo",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cuts - Thumb Cut Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/ad142f8d-f4f5-4086-99ff-c97095d40283"
+  },
+  {
+   "id": "thumb-fan-one-handed-closer",
+   "name": "Thumb Fan One Handed Closer",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/qli0D7nbulE",
+     "kind": "tutorial",
+     "teacher": "Galaxy Decks",
+     "status": "ok",
+     "title": "Cardistry Basics - Thumb Fan One Handed Closer Tutorial & Tips / Beginners Cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "tipping-point",
+   "name": "Tipping Point",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/0SxYsWwZqE4",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Basics - Tipping Point Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Basics",
+   "source": "youtube",
+   "categories": [
+    "Basics"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "tornado-cut",
+   "name": "Tornado Cut",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/xcz0KAOPs0g",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Tornado Cut Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/5b06226d-f9b2-4e6f-9b22-d4355813ea30",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "tourniquet",
+   "name": "Tourniquet",
+   "creator": "LingNemesis",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/ZJqV44I0q_I",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Card Twirl - Tourniquet Tutorial by LingNemesis"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "tracks",
+   "name": "Tracks",
+   "creator": "Dimitri Arleri",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/39akbnoPvbs",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: TRACKS by Dimitri Arleri | Squids | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "transfix",
+   "name": "Transfix",
+   "creator": "Oliver Sogard",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/TbA6DpgoDFI",
+     "kind": "tutorial",
+     "teacher": "Dealersgrip",
+     "status": "ok",
+     "title": "Transfix │ Cardistry Tutorial by Oliver Sogard"
+    }
+   ],
+   "iconic": false,
+   "category": "Basics",
+   "source": "youtube",
+   "categories": [
+    "Basics",
+    "Two-handed cuts"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/325207c7-aaab-4346-a972-874ada72a02a",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "trine",
+   "name": "Trine",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/xJg0uAUfnuk",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Trine Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "trist",
+   "name": "TRIST",
+   "creator": "Birger Karlsson",
+   "difficulty": "Advanced",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/9Mnh8dTyTsQ",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "TRIST by Birger Karlsson | Cardistry Tutorial | Fontaine Cards"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "hub",
+   "categories": [
+    "One-handed cuts",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/1a10f274-e000-41a8-9a78-a661139a1f2a"
+  },
+  {
+   "id": "trynn",
+   "name": "Trynn",
+   "creator": "Ladislas Toubart",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/DK3XxU4snAY",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: TRYNN by Ladislas Toubart | Quickie | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "tumble-closer",
+   "name": "Tumble Closer",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/NgPuEpFzYpo",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Card Twirls - Tumble Closer Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "tumblr-cut",
+   "name": "Tumblr Cut",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/-LDTI5Nu1A0",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cuts - Tumblr Cut Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "tunnel-shuffle",
+   "name": "Tunnel Shuffle",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/qcEy5eBkI7o",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Shuffles - Tunnel Shuffle Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Shuffles & weaves",
+   "source": "youtube",
+   "categories": [
+    "Shuffles & weaves"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/acc630eb-99ad-4153-9b99-11cbd254440a",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "turbine",
+   "name": "Turbine",
+   "creator": "Andrei Jikh",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://www.theory11.com/marketplace/andrei-jikh/turbine",
+     "kind": "buy",
+     "teacher": "theory11.com",
+     "status": "unchecked",
+     "title": null
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/0e8bd698-d5c1-44eb-95a9-b0e6ac3b5693"
+  },
+  {
+   "id": "two-card-twirl",
+   "name": "Two Card Twirl",
+   "creator": "Kenneth Aidan Foo",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/M2ol1RyvhH4",
+     "kind": "tutorial",
+     "teacher": "Kenneth Aidan Foo",
+     "status": "ok",
+     "title": "NSS Cardistry Tutorial - Two Card Twirl"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls",
+    "Displays & structures",
+    "Combos"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/0f3fa590-5861-4a88-940e-f1ec8ead1d0c"
+  },
+  {
+   "id": "umbi",
+   "name": "Umbi",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/rvumYCLbY6A",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Umbi Tutorial ft. Yang the Bunny"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts",
+    "Isolations"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/821fe481-9f5a-41cd-b24b-2fc8a0c10b48",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "under-pressure",
+   "name": "Under Pressure",
+   "creator": "Classic Move",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/MoEZUNV9DWY?t=6m45s",
+     "kind": "tutorial",
+     "teacher": "Chandler Henry",
+     "status": "ok",
+     "title": "Under Pressure & Pressure Fan // CARDISTRY TUTORIALS"
+    },
+    {
+     "url": "https://store.theory11.com/products/the-trilogy-by-dananddave",
+     "kind": "buy",
+     "teacher": "theory11.com",
+     "status": "unchecked",
+     "title": null
+    }
+   ],
+   "iconic": true,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/286af478-d1f0-43d5-bfd0-cfa5baf841cc"
+  },
+  {
+   "id": "unnamed",
+   "name": "Unnamed",
+   "creator": "Broderick Rosete",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/skbUux3WIcw",
+     "kind": "tutorial",
+     "teacher": "Carlito Rosete",
+     "status": "ok",
+     "title": "ISOLATION // Cardistry Tutorial | Broderick Rosete"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls"
+   ]
+  },
+  {
+   "id": "unterlock",
+   "name": "Unterlock",
+   "creator": "Kenneth Aidan Foo",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/LddVGviz9HQ",
+     "kind": "tutorial",
+     "teacher": "Kenneth Aidan Foo",
+     "status": "ok",
+     "title": "Unterlock by Kenneth Aidan Foo - Finesse Cardistry Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "use-fanning-powder",
+   "name": "Use Fanning Powder",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/dLE0bGjUXY8",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Basics - How to Use Fanning Powder Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Basics",
+   "source": "youtube",
+   "categories": [
+    "Basics"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "ventus",
+   "name": "Ventus",
+   "creator": "Tien Tran",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/FZqaOiml0bI",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | Twirls & Flirts - Ventus Tutorial by Tien Tran"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "vertigo",
+   "name": "Vertigo",
+   "creator": "Dan and Dave Buck",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/UuGrR9HhDP0",
+     "kind": "tutorial",
+     "teacher": "Chandler Henry",
+     "status": "ok",
+     "title": "CARDISTRY TUTORIAL // EASY & IMPRESSIVE AERIAL"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/5c3579a5-65e6-4df1-81b8-f3653e6a3f53"
+  },
+  {
+   "id": "virus",
+   "name": "Virus",
+   "creator": "Noel Heath",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/hpPm1lOSCPg",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "VIRUS // Cardistry Tutorial by Noel Heath"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts",
+    "Twirls",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/63ed6199-0e21-43a0-9437-99f03f306be5"
+  },
+  {
+   "id": "waterbend",
+   "name": "Waterbend",
+   "creator": "Joe Feldpausch",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/_BcGZbFNM0g",
+     "kind": "tutorial",
+     "teacher": "Best Cardist Alive",
+     "status": "ok",
+     "title": "WATERBEND - Cardistry Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "hub",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/99703720-d062-405e-876d-6428da670dc4"
+  },
+  {
+   "id": "whatever",
+   "name": "Whatever",
+   "creator": "Yang Nguyen",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/8fe0KP67WYo",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "Whatever tutorial by Yang Nguyen - Di.cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Aerials & drops",
+   "source": "youtube",
+   "categories": [
+    "Aerials & drops"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "whiplash",
+   "name": "Whiplash",
+   "creator": "Matthew Beaudouin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://www.youtube.com/watch?v=dYtVh6_HYu0",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: WHIPLASH by Matthew Beaudouin | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "hub",
+   "categories": [
+    "Two-handed cuts"
+   ]
+  },
+  {
+   "id": "whisk",
+   "name": "Whisk",
+   "creator": "Sebastian Goh",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/D20InPy8vwM",
+     "kind": "tutorial",
+     "teacher": "Kenneth Aidan Foo",
+     "status": "ok",
+     "title": "Whisk by Sebastian Goh - Finesse Cardistry Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "whisky",
+   "name": "Whisky",
+   "creator": "Nicolas Supertramp",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/7mxvOeSw9AU",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: WHISKY by Nicolas Supertramp | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "whoopsie-twirl",
+   "name": "Whoopsie Twirl",
+   "creator": "Zach Mueller",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/xvPHkFVgVLo",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "Whoopsie Twirl // Cardistry Tutorial by Zach Mueller"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "windstruck",
+   "name": "Windstruck",
+   "creator": "Yang Nguyen",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://www.youtube.com/watch?v=2nOzxog3iTo",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "Windstruck tutorial by Yang Nguyen - Di.cardistry"
+    },
+    {
+     "url": "https://youtu.be/inrY_qGdBPw",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "Windstruck tutorial by Yang Nguyen - Di.cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls",
+    "Fans & spreads"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/ddca3267-44dc-496c-8603-28b474a68aba"
+  },
+  {
+   "id": "wrench",
+   "name": "Wrench",
+   "creator": "Daniel Lin",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/ZY7Oeg7Etbo",
+     "kind": "tutorial",
+     "teacher": "Cardistry Touch",
+     "status": "ok",
+     "title": "Tutorial: WRENCH by Daniel Lin | Quickie | Cardistry Touch"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "wuya",
+   "name": "WUYA",
+   "creator": "NGUYEN HOANG DUY",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/EJwsYrbuZNI",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "WUYA -Cardistry tutorial by NGUYEN HOANG DUY"
+    }
+   ],
+   "iconic": false,
+   "category": "Shuffles & weaves",
+   "source": "youtube",
+   "categories": [
+    "Shuffles & weaves"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "x-cut",
+   "name": "X Cut",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/wAidCw6jlnQ",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-handed Cut - X Cut Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts",
+    "Twirls",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/7cdfaa00-c927-479f-85a3-8c8cb2a3ece5",
+   "levelSource": "Cardistry Base"
+  },
+  {
+   "id": "x-out",
+   "name": "X Out",
+   "creator": "Patrick Varnavas",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/POQe1dtM95E",
+     "kind": "tutorial",
+     "teacher": "Lotus in Hand",
+     "status": "ok",
+     "title": "Cardistry Bootcamp | Two Hand Cut - X Out Tutorial by Patrick Varnavas"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "xut",
+   "name": "Xut",
+   "creator": "Nguyen Hoang Duy",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/JZzxGuXfBi0",
+     "kind": "tutorial",
+     "teacher": "di.cardistry",
+     "status": "ok",
+     "title": "Xut tutorial by Nguyen Hoang Duy - Di.cardistry"
+    }
+   ],
+   "iconic": false,
+   "category": "One-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "One-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "y-cut",
+   "name": "Y Cut",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/BQO3r4lNreo",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: One-card Moves - Y Cut Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "youtube",
+   "categories": [
+    "Twirls"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "yin-yang-fan",
+   "name": "Yin-Yang Fan",
+   "creator": "Tical",
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/dPa7bmcVPaY",
+     "kind": "tutorial",
+     "teacher": "CardBandit",
+     "status": "ok",
+     "title": "Yin Yang Fan Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Fans & spreads",
+   "source": "hub",
+   "categories": [
+    "Fans & spreads",
+    "Displays & structures"
+   ],
+   "cardistryBase": "https://cardistrybase.com/moves/75620e33-902a-44f1-bdaa-135c82698ea8"
+  },
+  {
+   "id": "zm-card-twirl",
+   "name": "ZM Card Twirl",
+   "creator": "Zach Mueller",
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/4cBMQX2zAvY",
+     "kind": "tutorial",
+     "teacher": "Fontaine Cards",
+     "status": "ok",
+     "title": "ZM's One Card Twirl // Cardistry Tutorial by Zach Mueller"
+    }
+   ],
+   "iconic": false,
+   "category": "Twirls",
+   "source": "hub",
+   "categories": [
+    "Twirls"
+   ]
+  },
+  {
+   "id": "zoey",
+   "name": "Zoey",
+   "creator": null,
+   "difficulty": "Easy",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/KjT6dkl5vqA",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Zoey Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  },
+  {
+   "id": "zoey-plus",
+   "name": "Zoey Plus",
+   "creator": null,
+   "difficulty": "Intermediate",
+   "starter": null,
+   "description": null,
+   "links": [
+    {
+     "url": "https://youtu.be/Fe8RiU-YBcs",
+     "kind": "tutorial",
+     "teacher": "School of Cardistry",
+     "status": "ok",
+     "title": "Cardistry for Beginners: Two-handed Cut - Zoey Plus Tutorial"
+    }
+   ],
+   "iconic": false,
+   "category": "Two-handed cuts",
+   "source": "youtube",
+   "categories": [
+    "Two-handed cuts"
+   ],
+   "levelSource": "you"
+  }
+ ]
+}

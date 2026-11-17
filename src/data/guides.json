@@ -1,0 +1,211 @@
+{
+  "note": "Hand-picked introductions and guides, chosen by title and channel. Not moves: they have no learnt state.",
+  "groups": [
+    {
+      "title": "Before you pick up a deck",
+      "blurb": "Watch these first. What cardistry is, where it came from, and what it looks like at every level.",
+      "videos": [
+        {
+          "id": "bYrCqMnKwT4",
+          "title": "What Is Cardistry?",
+          "channel": "Tim Santiago"
+        },
+        {
+          "id": "wx_dnEen2xQ",
+          "title": "Cardistry: The Juggling of Playing Cards",
+          "channel": "WIRED"
+        },
+        {
+          "id": "u1WCkbXI-p0",
+          "title": "Cardistry Bootcamp: Introduction",
+          "channel": "Lotus in Hand"
+        },
+        {
+          "id": "_QHh2LYeKXc",
+          "title": "History of Cardistry",
+          "channel": "Lotus in Hand"
+        },
+        {
+          "id": "7NoHutNEzrU",
+          "title": "Styles of Cardistry",
+          "channel": "Lotus in Hand"
+        },
+        {
+          "id": "Uubnzb5hHPs",
+          "title": "Styles of Cardistry, Part 2",
+          "channel": "Lotus in Hand"
+        }
+      ]
+    },
+    {
+      "title": "Your first days with a deck",
+      "blurb": "How to start, what to practise first, and how to practise well.",
+      "videos": [
+        {
+          "id": "bDpCxoSyqSc",
+          "title": "Cardistry for Beginners: how to start, basics and tips",
+          "channel": "December Boys"
+        },
+        {
+          "id": "N_hyeTomzA0",
+          "title": "Learn Cardistry Basics: 5 Beginner Tips",
+          "channel": "December Boys"
+        },
+        {
+          "id": "g8mbn7TLATA",
+          "title": "Beginner Cardistry Tips",
+          "channel": "Chris Ramsay"
+        },
+        {
+          "id": "zhtDBU3VkGU",
+          "title": "Learn the Classics: 10 Free Cardistry Tutorials to Get Started",
+          "channel": "Fontaine Cards"
+        },
+        {
+          "id": "38jOh_FuwyE",
+          "title": "How to Practice Efficiently",
+          "channel": "Lotus in Hand"
+        }
+      ]
+    },
+    {
+      "title": "Later on",
+      "blurb": "Making your own moves, and performing them.",
+      "videos": [
+        {
+          "id": "rMcig5-vq8E",
+          "title": "What is a move?",
+          "channel": "Lotus in Hand"
+        },
+        {
+          "id": "t5jVBZW-L3s",
+          "title": "What makes a move good?",
+          "channel": "Lotus in Hand"
+        },
+        {
+          "id": "LCtZphueEWo",
+          "title": "Creative Process: Conceptualization",
+          "channel": "Lotus in Hand"
+        },
+        {
+          "id": "ct5FqOCGQ9k",
+          "title": "Creative Process: Completing your move",
+          "channel": "Lotus in Hand"
+        },
+        {
+          "id": "XsETUgJ0iOo",
+          "title": "General Tips for Creating",
+          "channel": "Lotus in Hand"
+        },
+        {
+          "id": "VULbVpab7YM",
+          "title": "Complete Guide to Live Performances",
+          "channel": "Lotus in Hand"
+        }
+      ]
+    }
+  ],
+  "faq": {
+    "credit": "Answers summarised from the r/cardistry Cardistry Hub guide by u/LogicRevolution and the community.",
+    "creditUrl": "https://docs.google.com/document/d/1Drp8ktfT4kgFEFGM7U67Oj45EHPj6QzJEJEHyEcNwNY/edit",
+    "sections": [
+      {
+        "title": "Getting started",
+        "items": [
+          {
+            "q": "What deck should I use?",
+            "a": "Any deck works. Start with cheap standard Bicycle decks, since cards wear out fast while you learn. Paper, poker-size cards are best; plastic and bridge-size cards make many moves harder. Aladdin 1001, Tally-Ho, Copag 310 and Aviator are other cheap decks that handle well."
+          },
+          {
+            "q": "My hands are too small. What can I do?",
+            "a": "They aren't too small: plenty of well-known cardists have small hands. Practise more, try a different grip, or use fewer cards while you learn. A few moves are harder with smaller hands, but most are possible."
+          },
+          {
+            "q": "Do I have to learn all the basics?",
+            "a": "No. Pick the moves you enjoy. The basics do make later moves easier, so they're worth learning if you plan to stick with it."
+          },
+          {
+            "q": "Which hand should I use?",
+            "a": "Whichever feels comfortable. Most tutorials hold the deck in the left hand for right-handed people, and left-handed people usually use the right. If a tutorial is the wrong way round, mirror the video (VLC can flip it)."
+          },
+          {
+            "q": "How should I practise?",
+            "a": "Little and often beats long sessions. Practise over a bed so dropped cards don't scatter, go slowly and smoothly before speeding up, focus on a few moves at a time, keep a deck nearby, and take breaks."
+          }
+        ]
+      },
+      {
+        "title": "When you're stuck",
+        "items": [
+          {
+            "q": "I can't get a move. Any tips?",
+            "a": "Keep practising and rewatch the tutorial by the move's original creator. Search r/cardistry for others who asked about it, or ask in the Cardistry Discord with a short video of where you're at. Often the answer really is just more practice."
+          },
+          {
+            "q": "My hand hurts when I practise.",
+            "a": "A light strain from using new muscles is normal. Real pain isn't: stop for a while, and if it comes back, see a doctor."
+          },
+          {
+            "q": "Should I warm up?",
+            "a": "It helps. Finger exercises work, or simply run a few easy moves until your hands feel loose."
+          }
+        ]
+      },
+      {
+        "title": "Looking after your cards",
+        "items": [
+          {
+            "q": "How do I take care of my cards?",
+            "a": "Practise with clean, dry hands, keep cards away from humidity and dirt, and try not to drop them."
+          },
+          {
+            "q": "How do I break in a new deck?",
+            "a": "Riffle and faro shuffles, swing cuts, springs and LePaul spreads all loosen a deck. Do them in both directions so the cards stay flat."
+          },
+          {
+            "q": "My cards click, bend or clump up. How do I fix them?",
+            "a": "Humidity and temperature changes warp cards. Press them under something heavy, keep them in a card clip, or faro half the deck face-up into the rest and box it tightly. Springs and spreads in the opposite direction help too. If a deck clumps or won't fan, leave it alone for a few days."
+          },
+          {
+            "q": "When should I switch to a new deck?",
+            "a": "When it's grimy, clumps, or no longer springs back into shape. Everyone's limit is different."
+          },
+          {
+            "q": "Do I need a card clip?",
+            "a": "No. A clip protects the box and keeps the cards straight, which helps a deck last longer, but it's optional."
+          }
+        ]
+      },
+      {
+        "title": "Making your own moves",
+        "items": [
+          {
+            "q": "I made a move. Has anyone done it before?",
+            "a": "If it's simple or combines basic moves, probably. Create for fun first; worry about whether it's original once the idea has grown."
+          },
+          {
+            "q": "How do I learn a move that has no tutorial?",
+            "a": "Slow down a performance video, or ask the creator. Please don't learn from pirated tutorials or unofficial copies of paid ones."
+          },
+          {
+            "q": "What's the etiquette around paid moves?",
+            "a": "Many cardists earn a living from their moves, so buy paid tutorials from the creator, don't make tutorials of other people's moves without permission, and always credit the creator."
+          }
+        ]
+      },
+      {
+        "title": "Community",
+        "items": [
+          {
+            "q": "Where can I meet other cardists?",
+            "a": "r/cardistry, Instagram and the Cardistry Discord are the busiest places. Look for local jams, and Cardistry-Con is held each year."
+          },
+          {
+            "q": "Are there books on cardistry?",
+            "a": "Yes, for later on: Hold my brain (Dimitri Arleri), Exploded Process (Matthew Beaudouin, free), Encyclopedia of Playing Card Flourishes (Jerry Cestkowski) and Rectangular Thoughts (Oliver Sogard), among others."
+          }
+        ]
+      }
+    ]
+  }
+}

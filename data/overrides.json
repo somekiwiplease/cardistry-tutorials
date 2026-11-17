@@ -1,0 +1,328 @@
+{
+ "note": "Set by hand: [main family, source, optional extra families, optional level]. Sources: cb = Cardistry Base tags, yt = the video's description, you = information you supplied. When the source is 'you', the families listed are the move's only families.",
+ "families": {
+  "Broken Angel": [
+   "Twirls & single card",
+   "cb"
+  ],
+  "Card Roll": [
+   "Twirls & single card",
+   "cb"
+  ],
+  "King Slinger 2": [
+   "Twirls & single card",
+   "cb"
+  ],
+  "Msmkii": [
+   "Twirls & single card",
+   "yt"
+  ],
+  "Chaser": [
+   "Combos",
+   "cb"
+  ],
+  "5forty": [
+   "Combos",
+   "yt"
+  ],
+  "Clustercuss": [
+   "One-handed cuts",
+   "cb"
+  ],
+  "Pilf": [
+   "One-handed cuts",
+   "cb"
+  ],
+  "Double Barrel": [
+   "Isolations",
+   "cb"
+  ],
+  "Newton s Cradle": [
+   "Isolations",
+   "cb"
+  ],
+  "Spock": [
+   "Isolations",
+   "cb"
+  ],
+  "Pinocchio": [
+   "Aerials & shots",
+   "cb"
+  ],
+  "Outbreak": [
+   "Aerials & shots",
+   "yt"
+  ],
+  "Chimera": [
+   "Two-handed cuts",
+   "cb"
+  ],
+  "Fireblast": [
+   "Two-handed cuts",
+   "cb"
+  ],
+  "Gearbox": [
+   "Two-handed cuts",
+   "cb"
+  ],
+  "Hannah And The Pirate Caves": [
+   "Two-handed cuts",
+   "cb"
+  ],
+  "Hummingbird": [
+   "Two-handed cuts",
+   "cb"
+  ],
+  "Netsky": [
+   "Two-handed cuts",
+   "cb"
+  ],
+  "Prism": [
+   "Two-handed cuts",
+   "cb"
+  ],
+  "Seattleite": [
+   "Two-handed cuts",
+   "cb"
+  ],
+  "Slip N Slide": [
+   "Two-handed cuts",
+   "cb"
+  ],
+  "Shyamalan": [
+   "Two-handed cuts",
+   "yt"
+  ],
+  "Leporidae": [
+   "Two-handed cuts",
+   "yt"
+  ],
+  "Unterlock": [
+   "Two-handed cuts",
+   "yt"
+  ],
+  "Rock the Boat": [
+   "Two-handed cuts",
+   "yt"
+  ],
+  "Recasting Sequence": [
+   "Two-handed cuts",
+   "yt"
+  ],
+  "ALÉA": [
+   "One-handed cuts",
+   "yt"
+  ],
+  "Kyber": [
+   "One-handed cuts",
+   "yt"
+  ],
+  "Tracks": [
+   "One-handed cuts",
+   "yt"
+  ],
+  "Roulette": [
+   "One-handed cuts",
+   "yt"
+  ],
+  "Bender": [
+   "Two-handed cuts",
+   "yt"
+  ],
+  "Dr. TWINKLE": [
+   "Two-handed cuts",
+   "yt"
+  ],
+  "Lucky": [
+   "Two-handed cuts",
+   "yt"
+  ],
+  "Reborn": [
+   "Two-handed cuts",
+   "yt"
+  ],
+  "Whisky": [
+   "Two-handed cuts",
+   "yt"
+  ],
+  "Crossed": [
+   "Two-handed cuts",
+   "yt"
+  ],
+  "Petite": [
+   "Two-handed cuts",
+   "yt"
+  ],
+  "Trynn": [
+   "Two-handed cuts",
+   "yt"
+  ],
+  "Plumelle": [
+   "Two-handed cuts",
+   "yt"
+  ],
+  "Looper 2": [
+   "Two-handed cuts",
+   "yt"
+  ],
+  "Flashie": [
+   "Twirls & single card",
+   "yt"
+  ],
+  "Snatch": [
+   "Combos",
+   "yt"
+  ],
+  "Tatum": [
+   "Springs & cascades",
+   "yt"
+  ],
+  "Spinbullet": [
+   "Twirls",
+   "you",
+   [
+    "Combos"
+   ]
+  ],
+  "Wrench": [
+   "Two-handed cuts",
+   "you"
+  ],
+  "Whisk": [
+   "Two-handed cuts",
+   "you"
+  ],
+  "Squish": [
+   "Two-handed cuts",
+   "you",
+   [
+    "Displays & structures"
+   ]
+  ],
+  "Compression": [
+   "Aerials & drops",
+   "you",
+   [
+    "Shuffles & weaves"
+   ]
+  ],
+  "Conglomerate": [
+   "Two-handed cuts",
+   "you",
+   [
+    "Combos"
+   ]
+  ],
+  "Cookie": [
+   "One-handed cuts",
+   "you",
+   [
+    "Twirls",
+    "Combos"
+   ]
+  ],
+  "Dodge": [
+   "Two-handed cuts",
+   "you"
+  ],
+  "Middle Out": [
+   "Two-handed cuts",
+   "you",
+   [
+    "Displays & structures",
+    "Isolations"
+   ]
+  ],
+  "Reverlution": [
+   "One-handed cuts",
+   "you"
+  ],
+  "Snaker": [
+   "Two-handed cuts",
+   "you"
+  ],
+  "Somethree": [
+   "One-handed cuts",
+   "you"
+  ],
+  "Leviosa": [
+   "Isolations",
+   "you",
+   [
+    "Twirls"
+   ]
+  ],
+  "Ktching": [
+   "Two-handed cuts",
+   "you"
+  ],
+  "Hinge": [
+   "Two-handed cuts",
+   "you"
+  ],
+  "Makitsu": [
+   "Two-handed cuts",
+   "you",
+   [],
+   "Intermediate"
+  ],
+  "Maze Runner": [
+   "Two-handed cuts",
+   "you",
+   [
+    "Combos"
+   ]
+  ],
+  "META": [
+   "Two-handed cuts",
+   "you"
+  ],
+  "Funnel": [
+   "Two-handed cuts",
+   "you",
+   [
+    "Displays & structures"
+   ]
+  ],
+  "Iguana": [
+   "Two-handed cuts",
+   "you",
+   [
+    "Displays & structures"
+   ]
+  ],
+  "Swing Opener": [
+   "One-handed cuts",
+   "you",
+   []
+  ],
+  "Flex": [
+   "Aerials & drops",
+   "you"
+  ],
+  "Tunnel Shuffle": [
+   "Shuffles & weaves",
+   "you",
+   []
+  ],
+  "Ribbon Spread": [
+   "Fans & spreads",
+   "you",
+   []
+  ],
+  "Vertigo": [
+   "Aerials & drops",
+   "you",
+   []
+  ],
+  "Brush": [
+   "Aerials & drops",
+   "you",
+   []
+  ]
+ },
+ "removed": [
+  "Airstream",
+  "Rubix Opener"
+ ]
+}

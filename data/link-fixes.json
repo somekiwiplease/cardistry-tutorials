@@ -1,0 +1,28 @@
+{
+  "note": "Links checked by hand in a browser 2026-11-16. 'remove' = page gone, shows 'not found', is a general shop homepage rather than the move, or is insecure with no secure version. 'replace' = same page at its current address.",
+  "remove": [
+    "http://dicardistry.com/#!/tutorials/premium/7",
+    "http://www.cardistry-con.org/shop/2017-tutorial-bundle",
+    "http://www.cardistry-con.org/shop/brooklyn-bundle",
+    "https://dealersgrip.com/maverick/",
+    "https://go.thevirts.com/",
+    "https://www.artofmagic.com/products/cardistry-con-2017-bundle",
+    "https://www.artofmagic.com/products/pandora",
+    "https://www.cardtutorialonly.com/wp-content/uploads/2016/09/HowTo360Easily.pdf",
+    "https://www.instagram.com/p/BPgogg-Ayqh/",
+    "https://www.penguinmagic.com/p/S9685",
+    "https://www.thevirts.com",
+    "https://www.vanishingincmagic.com/artofmagic/products/carnahan-fan/",
+    "https://www.vanishingincmagic.com/artofmagic/products/pandora-dan-dave/",
+    "https://www.vanishingincmagic.com/artofmagic/products/vertigo/",
+    "https://www.vanishingincmagic.com/magic-downloads/card-magic-downloads/the-one-card-ep/",
+    "https://www.vanishingincmagic.com/magic-downloads/flourishes-downloads/erdnase-go-round/"
+  ],
+  "replace": {
+    "http://gum.co/dumptut": "https://frankistea.gumroad.com/l/dumptut",
+    "http://www.thevirts.com": "https://go.thevirts.com/",
+    "http://www.penguinmagic.com/p/S9685": "https://www.penguinmagic.com/p/S9685",
+    "https://the-new-deck-order.myshopify.com/products/spingod": "https://thenewdeckorder.com/products/spingod",
+    "https://the-new-deck-order.myshopify.com/collections/all/products/ripple-4": "https://thenewdeckorder.com/collections/all/products/ripple-4"
+  }
+}

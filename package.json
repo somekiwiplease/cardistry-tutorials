@@ -1,0 +1,26 @@
+{
+  "name": "cardistry",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 4490 --strictPort",
+    "build": "tsc --noEmit && vite build",
+    "import:hub": "node scripts/import-hub.mjs",
+    "import:youtube": "node scripts/import-youtube.mjs",
+    "library": "node scripts/build-library.mjs",
+    "check-links": "node scripts/check-links.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^6.3.0",
+    "typescript": "^5.5.4",
+    "vite": "^8.3.8"
+  },
+  "description": "Learn cardistry: every move, one click from its tutorial."
+}
